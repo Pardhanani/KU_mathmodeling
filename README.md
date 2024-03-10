@@ -3,7 +3,7 @@
 This is a collection of hands on, self-guided lab modules designed to introduce 
 mathematical modeling methods in the context of a variety of real-world application 
 areas.  The starting point, or homepage, of this project is 
-<A HREF="./KUmathmodeling.ipynb">KUmathmodeling.ipynb</A>.  
+<A HREF="./KU_mathmodeling.ipynb">KU_mathmodeling.ipynb</A>.  
 Our target audience is undergraduate students in any discipline, who have an interest in 
 creative solutions to everyday issues, a bit of intellectual curiosity, and 
 a bit of background in college-level math.
@@ -22,9 +22,9 @@ and carry out further explorations discussed in the notebook.  Both forms access
 the same underlying notebook -- only the user interface is different.
 
 Our interactive notebooks run on <A HREF="https://mybinder.org/">Binder.org</A>, 
-which offers an easy, single-click, login-free way to use its jupyter servers.  
-However, we would like to alert the reader that launching a notebook typically 
-takes a few minutes of startup time, as Binder must first set up and install 
+which offers an easy, single-click, login-free way to use its jupyter 
+servers.  However, we would like to alert the reader that launching a notebook typically takes a few minutes of startup time, as Binder must first set 
+up and install 
 the packages and libraries required.  After that, once the notebook opens, 
 everything operates like a typical interactive session, with no further 
 time-lags or delays.
