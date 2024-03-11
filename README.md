@@ -21,7 +21,7 @@ form, in which the user can run the code segments, as well as make modifications
 and carry out further explorations discussed in the notebook.  Both forms access 
 the same underlying notebook -- only the user interface is different.
 
-Our interactive notebooks run on <A HREF="https://mybinder.org/">Binder.org</A>, 
+Our interactive notebooks run on <A HREF="https://mybinder.org/" TARGET="_blank">Binder.org</A>, 
 which offers an easy, single-click, login-free way to use its jupyter 
 servers.  However, we would like to alert the reader that launching a notebook typically takes a few minutes of startup time, as Binder must first set 
 up and install 
