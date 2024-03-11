@@ -28,3 +28,6 @@ up and install
 the packages and libraries required.  After that, once the notebook opens, 
 everything operates like a typical interactive session, with no further 
 time-lags or delays.
+
+<HR>
+<A HREF="./author.md">Author information</A>
