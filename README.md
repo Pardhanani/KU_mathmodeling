@@ -3,8 +3,8 @@
 This is a collection of hands on, self-guided lab modules designed to introduce 
 mathematical modeling methods in the context of a variety of real-world application 
 areas.  The starting point, or homepage, of this project is 
-<A HREF="./KU_mathmodeling.ipynb">KU_mathmodeling.ipynb</A>.  
-Our target audience is undergraduate students in any discipline, who have an interest in 
+<A HREF="./KU_mathmodeling.ipynb">KU_mathmodeling.ipynb</A>.  Our target audience 
+is undergraduate students in any discipline, who have an interest in 
 creative solutions to everyday issues, a bit of intellectual curiosity, and 
 a bit of background in college-level math.
 
