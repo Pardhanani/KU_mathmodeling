@@ -1,4 +1,4 @@
-### Math modeling lab modules (work in progress, as of March 2024)
+### Math modeling lab modules (work in progress, as of May 2024)
 
 This is a collection of hands on, self-guided lab modules designed to introduce 
 mathematical modeling methods in the context of a variety of real-world application 
