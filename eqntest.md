@@ -1,4 +1,4 @@
 $$
   x = y+z  \\
-  r=sqrt{s}
+  r=\sqrt{s}
 $$
