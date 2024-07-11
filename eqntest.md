@@ -1,5 +1,5 @@
-$$\begin{equation}
+$$\begin{eqnarray}
   x = y+z  \\
   r=\sqrt{s}
-\end{equation}
+\end{eqnarray}
 $$
