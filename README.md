@@ -8,6 +8,8 @@ is undergraduate students in any discipline, who have an interest in
 creative solutions to everyday issues, a bit of intellectual curiosity, and 
 a bit of background in college-level math.
 
+We are particularly interested in attracting teachers of applied mathematics, STEM, or other relevant courses to use these materials in their classroom.  There are at least 2 reasons why a teacher might this helpful: (1) these labs provide a quick and easy way to enhance existing course materials with real world problems; and (2) we encourage teachers to edit, modifiy, extend or adapt these materials in any way they wish, so that it best fits their goals.  Another potential use of these materials is to help students prepare for math modeling contests.
+
 We emphasize, these materials DO NOT provide much of a mathematical exposition of 
 the modeling methods used.  Instead, the focus is primarily on applying the methods 
 in context, and in gaining insights about the quality and reliability of our 
