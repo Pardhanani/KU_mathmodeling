@@ -12,7 +12,7 @@ We are particularly interested in attracting teachers of applied mathematics, ST
 
 We emphasize, these materials DO NOT provide much of a mathematical exposition of 
 the modeling methods used.  Instead, the focus is primarily on applying the methods 
-in context, and in gaining insights about the quality and reliability of our 
+in context, and in gaining insights about the quality and reliability of the 
 models.  Thus, the materials are unlikely to be a good fit for mathematically-oriented 
 modeling courses or students.
 
