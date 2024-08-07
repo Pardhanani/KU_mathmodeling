@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8" />
+
+<title>KU_mathmodeling</title>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+<!-- Custom stylesheet, it must be in the same directory as the html file -->
+<link rel="stylesheet" href="custom.css">
+
+<!-- Loading mathjax macro -->
+<!-- Load mathjax -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_HTML"></script>
+    <!-- MathJax configuration -->
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+            processEscapes: true,
+            processEnvironments: true
+        },
+        // Center justify equations in code and markdown cells. Elsewhere
+        // we use CSS to left justify single line equations in code cells.
+        displayAlign: 'center',
+        "HTML-CSS": {
+            styles: {'.MathJax_Display': {"margin": 0}},
+            linebreaks: { automatic: true }
+        }
+    });
+    </script>
+    <!-- End of mathjax configuration --></head>
+<body>
+<TABLE ALIGN="CENTER" WIDTH="500" BORDER="0"  CELLSPACING="2"
+       CELLPADDING="0">
+<TR><TD>
+  <div tabindex="-1" id="notebook" class="border-box-sizing">
+    <div class="container" id="notebook-container">
+
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Mathematical-modeling-labs">Mathematical modeling labs<a class="anchor-link" href="#Mathematical-modeling-labs"></a></h1><p>These Python notebooks are self-guided lab modules designed to 
+introduce mathematical modeling techniques in the context of 
+a variety of real-world application areas.  The focus is 
+primarily on a hands on treatment of the application, although 
+a brief exposition of the associated mathematics is included 
+where needed.  The mathematical background expected is that of 
+a typical undergraduate student in a STEM discipline.</p>
+<p>Each module 
+implements the modeling technique in the form of Python code 
+segments that are integrated into the notebook.  Although no 
+previous coding experience is necessary, we encourage students 
+to run the code and explore the effect of making changes to 
+various modeling parameters.  In order to do this, the student 
+will need to launch the notebook in "Interactive" mode, which is 
+an option provided for each lab below.</p>
+<ol>
+<li><p><strong>Roller coaster design</strong> <BR></BR>
+<FONT COLOR="#0000B6">
+This module illustrates the use of smooth functions to model the 
+track of roller coasters, and explores ways to optimize the "thrill" 
+of the coaster. </FONT> <BR></BR>
+ Launch jupyter notebook: &nbsp; <A HREF="./roller_coaster/roller_coaster_modeling.ipynb">
+ [View only]</A> &nbsp; 
+ <A HREF="https://mybinder.org/v2/gh/Pardhanani/KU_mathmodeling/HEAD?labpath=roller_coaster%2Froller_coaster_modeling.ipynb" TARGET="_blank">[Interactive]</A></p>
+<P></P></li>
+<li><p><strong>Forecasting future oil production rates</strong>  <BR></BR>
+<FONT COLOR="#0000B6">
+In this lab we use logistic functions to model and predict the annual 
+rate of oil production in the United States and in the world. </FONT>
+<BR></BR>
+ Launch jupyter notebook: &nbsp; 
+ <A HREF="./oil_production/oil_production.ipynb">[View only]</A> &nbsp; 
+ <A HREF="https://mybinder.org/v2/gh/Pardhanani/KU_mathmodeling/HEAD?labpath=oil_production%2Foil_production.ipynb" TARGET="_blank">[Interactive]</A></p>
+<P></P></li>
+<li><p><strong>Modeling wind energy</strong> <BR></BR>
+<FONT COLOR="#0000B6">
+A strategy for estimating the energy produced by wind turbines 
+is developed in this module.  It is used to assess the 
+feasibility of transitioning to wind energy on a 
+small college campus in the United States. </FONT>
+<BR></BR>
+ Launch jupyter notebook: &nbsp; 
+ <A HREF="./wind_turbine/wind_turbine_model.ipynb">[View only]</A> &nbsp; 
+ <A HREF="https://mybinder.org/v2/gh/Pardhanani/KU_mathmodeling/HEAD?labpath=wind_turbine%2Fwind_turbine_model.ipynb" TARGET="_blank">[Interactive]</A></p>
+<P></P></li>
+<li><p><strong>Saving the spotted owl from extinction</strong> <BR></BR>
+<FONT COLOR="#0000B6">
+The northern spotted owl in the United States is a threatened 
+species that faces risk of extinction.  In this module, a difference 
+equation system is used to study the owl's population trends. 
+</FONT> <BR></BR>
+ Launch jupyter notebook: &nbsp; 
+ <A HREF="./spotted_owl/spotted_owl.ipynb">[View only]</A> &nbsp; 
+ <A HREF="https://mybinder.org/v2/gh/Pardhanani/KU_mathmodeling/HEAD?labpath=spotted_owl%2Fspotted_owl.ipynb" TARGET="_blank">[Interactive]</A></p>
+<P></P></li>
+<li><p><strong>Flood mitigation via canal networks</strong> <BR></BR>
+<FONT COLOR="#0000B6">
+Water canals in the city of Bangkok play a variety of functional 
+roles, including drainage of flood waters.  In this lab we 
+consider a simple canal network, and determine the best pumping and 
+draining strategy during peak flooding events. </FONT>
+<BR></BR>
+ Launch jupyter notebook: &nbsp; 
+ <A HREF="./bkk_canals/bkk_canal_networks.ipynb">[View only]</A> &nbsp; 
+ <A HREF="https://mybinder.org/v2/gh/Pardhanani/KU_mathmodeling/HEAD?labpath=bkk_canals%2Fbkk_canal_networks.ipynb" TARGET="_blank">[Interactive]</A></p>
+<P></P></li>
+</ol>
+<hr>
+<p>The next set of lab modules is based on the 
+<a href="https://m3challenge.siam.org/the-challenge/" TARGET="_blank">MathWoks Math Modeling Challenge</a> 
+contest (also known as M3C) for high school students.  Each 
+lab focuses on  a problem that 
+appeared in one of the contests, and presents a guided solution 
+strategy based on the winning papers.</p>
+<ol>
+<li><p><strong>Predicting the growth in sales and usage of electric bikes</strong> <BR></BR>
+<FONT COLOR="#0000B6">
+The sales and usage of e-bikes, or electric 2-wheelers has been 
+rapidly increasing in many countries.  This module focuses on 
+building a logistic growth model for forecasting future sales 
+of e-bikes in the United States. 
+</FONT> <BR></BR>
+ Launch jupyter notebook: &nbsp; 
+ <A HREF="./m3c_ebikes/m3c_ebikes.ipynb">[View only]</A> &nbsp; 
+ <A HREF="https://mybinder.org/v2/gh/Pardhanani/KU_mathmodeling/HEAD?labpath=m3c_ebikes%2Fm3c_ebikes.ipynb" TARGET="_blank">[Interactive]</A></p>
+<P></P></li>
+<li><p><strong>Modeling the addiction to e-cigarettes and vaping</strong> <BR></BR>
+<FONT COLOR="#0000B6">
+The increasing use of e-cigarettes and vaporizers, particularly 
+among younger people, has been a cause of growing concern for 
+public health organizations.  In this lab we build a differential 
+equations model to predict the spread of nicotine use as a result 
+of vaping.
+</FONT> <BR></BR>
+ Launch jupyter notebook: &nbsp; 
+ <A HREF="./m3c_vaping/m3c_vaping.ipynb">[View only]</A> &nbsp; 
+ <A HREF="https://mybinder.org/v2/gh/Pardhanani/KU_mathmodeling/HEAD?labpath=m3c_vaping%2Fm3c_vaping.ipynb" TARGET="_blank">[Interactive]</A></p>
+<P></P></li>
+<li><p><strong>Electrification of the freight trucking industry</strong> <BR></BR>
+<FONT COLOR="#0000B6">
+Large freight trucks comprise the backbone of cargo transportation 
+in many countries, and they carry nearly everything that we buy, 
+build or consume.  As a result, there is much interest in 
+non-fossil fuel alternatives such as electric trucks.  In this 
+lab we build Markov chain models to predict the rate of adoption of 
+electric trucks in the U.S.
+</FONT> <BR></BR>
+ Launch jupyter notebook: &nbsp; 
+ <A HREF="./m3c_semitrucks/m3c_semitrucks.ipynb">[View only]</A> &nbsp; 
+ <A HREF="https://mybinder.org/v2/gh/Pardhanani/KU_mathmodeling/HEAD?labpath=m3c_semitrucks%2Fm3c_semitrucks.ipynb" TARGET="_blank">[Interactive]</A></p>
+<P></P></li>
+</ol>
+
+</div>
+</div>
+</div>
+  </div>
+</div>
+</TD></TR>
+</TABLE>
+</body>
+
+ 
+
+
+</html>
