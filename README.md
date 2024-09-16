@@ -1,14 +1,20 @@
 ### Math modeling lab modules (work in progress, as of July 2024)
 
 This is a collection of hands on, self-guided lab modules designed to introduce 
-mathematical modeling methods in the context of a variety of real-world application 
-areas.  The starting point, or homepage, of this project is 
+mathematical and statistical modeling in the context of a variety of real-world 
+application areas.  The starting point, or homepage, of this project is 
 <A HREF="./KU_mathmodeling.ipynb">KU_mathmodeling.ipynb</A>.  Our target audience 
 is undergraduate students in any discipline, who have an interest in 
 creative solutions to everyday issues, a bit of intellectual curiosity, and 
 a bit of background in college-level math.
 
-We are particularly interested in attracting teachers of applied mathematics, STEM, or other relevant courses to use these materials in their classroom.  There are at least 2 reasons why a teacher might this helpful: (1) these labs provide a quick and easy way to enhance existing course materials with real world problems; and (2) we encourage teachers to edit, modifiy, extend or adapt these materials in any way they wish, so that it best fits their goals.  Another potential use of these materials is to help students prepare for math modeling contests.
+We are particularly interested in attracting teachers of applied mathematics, STEM, or 
+other relevant courses to use these materials in their classroom.  There are at least 2 
+reasons why a teacher might find this helpful: (1) these labs provide a quick and easy way to 
+enhance existing course materials with real world problems; and (2) we encourage teachers to 
+edit, modifiy, extend or adapt these materials in any way they wish, so that it best fits 
+their goals.  Another potential use of these materials is to help students prepare for math 
+modeling contests.
 
 We emphasize, these materials DO NOT provide much of a mathematical exposition of 
 the modeling methods used.  Instead, the focus is primarily on applying the methods 
