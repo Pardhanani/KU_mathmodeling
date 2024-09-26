@@ -4,5 +4,4 @@ matplotlib
 pandas
 scipy
 ipywidgets
-networkx
-mip
+sklearn
