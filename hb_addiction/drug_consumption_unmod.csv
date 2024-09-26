@@ -1,0 +1,1886 @@
+Number,Age,Gender,Education,Country,Ethnicity,Alcohol,Cannabis
+1,35-44,female,prof cert,U.K.,Mixed,CL5,CL0
+2,25-34,male,PhD,U.K.,White,CL5,CL4
+3,35-44,male,prof cert,U.K.,White,CL6,CL3
+4,0-24,female,master's,U.K.,White,CL4,CL2
+5,35-44,female,PhD,U.K.,White,CL4,CL3
+6,65+,female,hs,Canada,White,CL2,CL0
+7,45-54,male,master's,U.S.A.,White,CL6,CL1
+8,35-44,male,hs,U.K.,White,CL5,CL0
+9,35-44,female,prof cert,Canada,White,CL4,CL0
+10,55-64,male,master's,U.K.,White,CL6,CL1
+11,25-34,female,undergrad,U.K.,White,CL5,CL2
+12,45-54,male,college,Other,White,CL5,CL4
+13,55-64,female,undergrad,U.K.,White,CL5,CL3
+14,55-64,female,prof cert,Canada,White,CL1,CL0
+15,55-64,female,prof cert,U.K.,White,CL6,CL0
+16,55-64,male,undergrad,U.K.,White,CL5,CL1
+17,35-44,female,college,U.K.,White,CL6,CL3
+18,45-54,male,hs,U.K.,White,CL6,CL6
+19,55-64,male,undergrad,Australia,White,CL6,CL3
+20,35-44,male,prof cert,U.K.,White,CL4,CL1
+21,45-54,male,prof cert,U.K.,White,CL6,CL2
+22,65+,male,hs,U.K.,White,CL5,CL1
+23,45-54,male,undergrad,U.K.,White,CL4,CL0
+24,45-54,male,hs,U.K.,White,CL6,CL2
+25,55-64,male,undergrad,U.K.,White,CL5,CL1
+26,45-54,male,college,U.K.,White,CL5,CL1
+27,55-64,female,hs,Canada,White,CL6,CL1
+28,35-44,male,undergrad,U.K.,White,CL6,CL6
+29,35-44,female,master's,U.K.,White,CL6,CL1
+30,45-54,male,PhD,U.K.,White,CL0,CL0
+31,45-54,male,hs,U.K.,White,CL6,CL2
+32,35-44,female,hs,Other,White,CL3,CL0
+33,35-44,male,undergrad,U.K.,White,CL6,CL3
+34,0-24,male,undergrad,U.K.,White,CL6,CL0
+35,35-44,male,undergrad,U.S.A.,Other,CL4,CL2
+36,65+,male,hs,U.K.,White,CL3,CL0
+37,35-44,male,undergrad,U.K.,White,CL6,CL0
+38,55-64,male,hs,U.S.A.,White,CL6,CL3
+39,45-54,male,undergrad,U.K.,White,CL6,CL1
+40,65+,female,prof cert,U.K.,White,CL6,CL1
+41,35-44,male,master's,U.K.,White,CL5,CL0
+42,35-44,female,undergrad,U.K.,White,CL4,CL0
+43,35-44,male,master's,U.K.,White,CL6,CL2
+44,35-44,male,prof cert,U.K.,White,CL6,CL3
+45,25-34,male,undergrad,U.K.,Other,CL5,CL0
+46,25-34,female,undergrad,U.K.,White,CL5,CL0
+47,45-54,female,college,Canada,White,CL3,CL1
+48,45-54,male,master's,U.K.,White,CL5,CL1
+49,45-54,male,hs,U.K.,White,CL6,CL5
+50,25-34,female,master's,U.K.,Mixed,CL6,CL0
+51,35-44,male,master's,U.K.,White,CL6,CL3
+52,45-54,male,prof cert,Canada,White,CL2,CL2
+53,55-64,female,undergrad,U.K.,White,CL5,CL0
+54,45-54,male,master's,U.K.,White,CL5,CL1
+55,55-64,male,hs,U.K.,White,CL6,CL2
+56,55-64,female,prof cert,U.K.,White,CL3,CL0
+57,35-44,female,college,U.K.,White,CL5,CL0
+58,25-34,female,undergrad,U.K.,White,CL1,CL0
+59,45-54,male,hs,U.K.,White,CL5,CL5
+60,45-54,male,undergrad,U.K.,White,CL5,CL0
+61,25-34,female,PhD,U.K.,White,CL5,CL0
+62,45-54,male,master's,U.K.,Asian,CL5,CL1
+63,25-34,male,undergrad,U.K.,White,CL5,CL0
+64,45-54,male,undergrad,U.K.,White,CL5,CL0
+65,45-54,male,PhD,U.K.,White,CL6,CL6
+66,35-44,male,college,U.K.,White,CL5,CL0
+67,45-54,male,hs,U.K.,White,CL4,CL0
+68,25-34,male,master's,U.K.,White,CL5,CL2
+69,35-44,male,prof cert,Other,White,CL5,CL2
+70,45-54,female,hs,U.K.,White,CL6,CL0
+71,25-34,male,college,U.K.,White,CL6,CL2
+72,45-54,female,hs,Canada,White,CL5,CL1
+73,45-54,male,hs,U.K.,White,CL6,CL1
+74,45-54,male,prof cert,U.K.,White,CL6,CL0
+75,65+,female,hs,U.K.,White,CL3,CL0
+76,25-34,male,undergrad,U.K.,White,CL5,CL1
+77,45-54,female,hs,Canada,White,CL4,CL0
+78,35-44,male,undergrad,U.K.,White,CL3,CL2
+79,35-44,male,college,U.K.,White,CL6,CL1
+80,35-44,male,prof cert,U.K.,White,CL5,CL0
+81,65+,female,PhD,Canada,White,CL6,CL1
+82,55-64,female,undergrad,U.K.,White,CL5,CL2
+83,55-64,male,master's,Canada,White,CL5,CL0
+84,55-64,female,hs,U.K.,Mixed,CL3,CL1
+85,45-54,male,hs,U.K.,White,CL5,CL2
+86,25-34,female,hs,U.K.,White,CL3,CL1
+87,35-44,male,college,U.K.,White,CL5,CL1
+88,55-64,male,hs,U.K.,White,CL5,CL1
+89,35-44,female,college,U.K.,White,CL3,CL2
+90,35-44,female,master's,U.K.,White,CL5,CL0
+91,35-44,female,master's,U.K.,White,CL6,CL3
+92,35-44,male,prof cert,Canada,White,CL2,CL1
+93,25-34,male,hs,U.K.,White,CL4,CL1
+94,65+,female,hs,U.K.,White,CL3,CL0
+95,45-54,male,master's,U.K.,White,CL5,CL2
+96,45-54,male,master's,U.K.,White,CL6,CL1
+97,35-44,female,undergrad,Canada,White,CL4,CL2
+98,45-54,female,master's,U.K.,White,CL5,CL1
+99,35-44,male,PhD,Canada,White,CL4,CL1
+100,25-34,female,undergrad,U.K.,White,CL6,CL3
+101,25-34,male,master's,Other,White,CL6,CL6
+102,45-54,female,hs,Australia,White,CL4,CL1
+103,45-54,male,hs,U.K.,White,CL6,CL1
+104,45-54,female,prof cert,Canada,White,CL4,CL0
+105,25-34,female,college,Canada,White,CL5,CL6
+106,35-44,male,prof cert,U.K.,White,CL3,CL0
+107,25-34,female,college,U.K.,White,CL4,CL0
+108,35-44,female,hs,U.K.,White,CL5,CL0
+109,25-34,female,undergrad,U.K.,White,CL5,CL3
+110,45-54,female,college,U.K.,White,CL5,CL2
+111,45-54,male,master's,U.K.,Asian,CL5,CL0
+112,25-34,male,master's,U.K.,White,CL6,CL3
+113,25-34,female,undergrad,U.K.,White,CL3,CL2
+114,45-54,female,prof cert,U.K.,White,CL4,CL2
+115,35-44,male,college,U.K.,White,CL4,CL6
+116,25-34,female,prof cert,Canada,White,CL5,CL2
+117,35-44,male,prof cert,Canada,White,CL4,CL2
+118,25-34,female,undergrad,U.K.,White,CL5,CL1
+119,35-44,female,college,U.S.A.,White,CL5,CL1
+120,35-44,female,undergrad,U.K.,White,CL5,CL0
+121,25-34,female,master's,U.K.,White,CL6,CL1
+122,35-44,female,prof cert,U.K.,White,CL2,CL0
+123,55-64,male,master's,U.K.,White,CL6,CL1
+124,25-34,female,undergrad,U.K.,White,CL5,CL3
+125,45-54,male,hs,U.K.,White,CL3,CL0
+126,55-64,male,undergrad,U.K.,White,CL6,CL0
+127,45-54,male,undergrad,U.K.,White,CL5,CL1
+128,45-54,female,hs,U.K.,White,CL5,CL0
+129,35-44,male,PhD,U.K.,Asian,CL0,CL0
+130,45-54,female,master's,U.K.,White,CL6,CL0
+131,45-54,female,hs,U.K.,White,CL5,CL0
+132,45-54,female,hs,U.K.,Other,CL4,CL0
+133,35-44,female,hs,Irel.,White,CL4,CL0
+134,35-44,male,master's,U.K.,White,CL5,CL1
+135,25-34,female,master's,U.K.,Mixed,CL6,CL1
+136,35-44,female,hs,U.K.,White,CL1,CL0
+137,45-54,female,undergrad,U.K.,White,CL5,CL1
+138,45-54,female,undergrad,U.K.,White,CL4,CL0
+139,55-64,male,undergrad,U.K.,White,CL6,CL1
+140,45-54,male,hs,U.K.,White,CL6,CL1
+141,25-34,female,undergrad,U.K.,Asian,CL5,CL0
+142,35-44,female,hs,U.K.,White,CL5,CL0
+143,35-44,male,hs,U.K.,White,CL6,CL1
+144,35-44,male,prof cert,U.K.,Black,CL1,CL0
+145,45-54,male,prof cert,Canada,White,CL6,CL3
+146,45-54,female,undergrad,U.K.,White,CL4,CL1
+147,55-64,male,prof cert,U.K.,White,CL6,CL1
+148,35-44,male,master's,U.K.,Black,CL4,CL0
+149,35-44,female,prof cert,U.K.,White,CL4,CL0
+150,45-54,female,undergrad,U.K.,White,CL4,CL2
+151,35-44,female,college,U.K.,White,CL5,CL0
+152,35-44,female,undergrad,U.K.,White,CL5,CL2
+153,25-34,female,undergrad,U.K.,White,CL5,CL2
+154,25-34,male,undergrad,U.K.,White,CL6,CL1
+155,0-24,female,college,U.K.,White,CL5,CL0
+156,35-44,female,undergrad,U.K.,Black,CL5,CL0
+157,35-44,female,college,U.K.,White,CL5,CL2
+158,25-34,male,hs,U.K.,White,CL6,CL0
+159,35-44,female,undergrad,Australia,White,CL3,CL0
+160,45-54,female,college,U.K.,Black,CL4,CL0
+161,45-54,male,master's,Other,White,CL5,CL6
+162,35-44,male,undergrad,U.K.,Black,CL5,CL0
+163,25-34,female,undergrad,New Zealand,White,CL3,CL2
+164,25-34,female,college,U.K.,White,CL4,CL0
+165,25-34,female,PhD,U.K.,White,CL3,CL1
+166,45-54,male,master's,U.K.,White,CL6,CL1
+167,0-24,male,college,U.K.,White,CL5,CL4
+168,25-34,female,prof cert,U.K.,Black,CL2,CL0
+169,25-34,female,undergrad,U.K.,White,CL5,CL0
+170,0-24,female,hs,U.K.,White,CL5,CL0
+171,45-54,male,hs,U.K.,White,CL2,CL2
+172,35-44,male,master's,U.K.,White,CL6,CL1
+173,45-54,female,prof cert,U.K.,White,CL5,CL2
+174,35-44,female,undergrad,U.K.,White,CL6,CL0
+175,35-44,female,prof cert,U.K.,White,CL6,CL0
+176,55-64,female,undergrad,U.K.,White,CL5,CL1
+177,35-44,female,undergrad,U.K.,Other,CL3,CL0
+178,35-44,female,undergrad,U.K.,White,CL5,CL0
+179,45-54,female,undergrad,U.K.,White,CL5,CL1
+180,35-44,female,prof cert,U.K.,White,CL5,CL2
+181,45-54,female,prof cert,U.K.,White,CL5,CL0
+182,25-34,male,PhD,U.K.,White,CL5,CL0
+183,35-44,female,college,U.K.,White,CL5,CL0
+184,0-24,female,undergrad,U.K.,White,CL6,CL0
+185,55-64,male,hs,U.K.,White,CL6,CL0
+186,35-44,female,undergrad,Canada,White,CL5,CL3
+187,35-44,female,master's,U.K.,White,CL6,CL1
+188,55-64,female,hs,U.K.,White,CL4,CL1
+189,45-54,female,hs,U.K.,White,CL4,CL0
+190,0-24,female,master's,U.K.,White,CL5,CL2
+191,55-64,female,prof cert,U.K.,White,CL5,CL0
+192,0-24,male,undergrad,U.K.,Mixed,CL5,CL2
+193,25-34,female,prof cert,Canada,White,CL5,CL5
+194,45-54,female,undergrad,U.K.,White,CL5,CL1
+195,25-34,female,undergrad,Canada,Mixed,CL3,CL2
+196,55-64,female,undergrad,U.K.,White,CL5,CL2
+197,0-24,male,undergrad,U.K.,Black,CL4,CL0
+198,55-64,female,undergrad,U.K.,White,CL5,CL0
+199,25-34,female,prof cert,U.K.,White,CL6,CL6
+200,45-54,female,prof cert,U.K.,White,CL4,CL4
+201,0-24,female,undergrad,U.K.,White,CL6,CL0
+202,35-44,male,master's,U.K.,Other,CL5,CL2
+203,35-44,female,undergrad,U.K.,White,CL6,CL1
+204,65+,male,hs,U.K.,White,CL5,CL0
+205,25-34,female,undergrad,U.K.,White,CL5,CL2
+206,35-44,female,hs,U.K.,White,CL5,CL0
+207,0-24,female,undergrad,U.K.,White,CL5,CL0
+208,35-44,female,prof cert,U.K.,White,CL5,CL6
+209,35-44,female,undergrad,U.K.,White,CL4,CL6
+210,25-34,male,master's,U.K.,Asian,CL0,CL0
+211,25-34,female,college,U.K.,White,CL3,CL0
+212,45-54,female,hs,U.K.,White,CL5,CL0
+213,25-34,female,prof cert,U.K.,White,CL6,CL1
+214,45-54,female,prof cert,Irel.,White,CL5,CL0
+215,25-34,female,prof cert,U.K.,White,CL5,CL2
+216,25-34,female,undergrad,Canada,White,CL5,CL4
+217,25-34,female,prof cert,U.K.,White,CL5,CL1
+218,35-44,male,prof cert,U.K.,White,CL2,CL1
+219,25-34,female,master's,Other,White,CL4,CL3
+220,35-44,female,college,U.K.,White,CL6,CL1
+221,0-24,female,undergrad,U.K.,White,CL5,CL3
+222,25-34,female,undergrad,U.K.,White,CL3,CL0
+223,35-44,female,undergrad,U.K.,White,CL6,CL2
+224,55-64,male,undergrad,U.K.,White,CL1,CL0
+225,45-54,female,undergrad,U.K.,White,CL5,CL0
+226,35-44,female,undergrad,U.K.,White,CL6,CL0
+227,45-54,female,undergrad,U.K.,White,CL5,CL1
+228,0-24,male,college,U.K.,White,CL5,CL4
+229,45-54,male,master's,U.K.,White,CL6,CL2
+230,45-54,female,undergrad,U.K.,White,CL6,CL1
+231,35-44,female,prof cert,U.K.,White,CL5,CL1
+232,65+,female,master's,U.K.,White,CL6,CL0
+233,25-34,female,undergrad,U.K.,White,CL5,CL0
+234,45-54,male,undergrad,U.K.,White,CL6,CL0
+235,25-34,female,undergrad,U.K.,White,CL4,CL2
+236,25-34,female,prof cert,U.K.,White,CL5,CL0
+237,25-34,female,master's,U.K.,White,CL6,CL0
+238,25-34,female,hs,U.K.,White,CL5,CL3
+239,0-24,female,hs,U.K.,White,CL4,CL0
+240,45-54,female,prof cert,U.K.,White,CL5,CL0
+241,35-44,female,master's,U.K.,White,CL4,CL0
+242,25-34,female,hs,Other,White,CL5,CL2
+243,0-24,female,college,U.K.,White,CL5,CL0
+244,25-34,female,undergrad,U.K.,White,CL5,CL3
+245,35-44,male,undergrad,U.K.,White,CL5,CL1
+246,25-34,female,college,U.K.,White,CL5,CL1
+247,25-34,female,prof cert,U.K.,White,CL5,CL2
+248,45-54,male,master's,U.K.,White,CL6,CL0
+249,45-54,female,PhD,U.K.,White,CL5,CL0
+250,45-54,female,prof cert,U.K.,White,CL5,CL0
+251,45-54,male,undergrad,U.K.,White,CL5,CL0
+252,35-44,female,undergrad,U.K.,White,CL4,CL0
+253,0-24,female,master's,U.K.,White,CL5,CL2
+254,45-54,female,PhD,U.K.,White,CL6,CL2
+255,25-34,male,prof cert,U.K.,White,CL4,CL3
+256,35-44,female,master's,U.K.,White,CL5,CL2
+257,0-24,female,college,U.K.,White,CL4,CL2
+258,35-44,male,PhD,U.K.,White,CL4,CL1
+259,65+,male,PhD,U.K.,White,CL5,CL0
+260,65+,male,prof cert,U.K.,White,CL6,CL0
+261,45-54,female,prof cert,U.K.,White,CL5,CL2
+262,55-64,male,undergrad,U.K.,White,CL2,CL1
+263,45-54,male,master's,U.K.,Asian,CL3,CL0
+264,55-64,female,hs,U.K.,White,CL5,CL0
+265,0-24,female,undergrad,U.K.,White,CL5,CL2
+266,35-44,female,undergrad,U.K.,Black,CL2,CL0
+267,55-64,male,undergrad,U.K.,White,CL6,CL3
+268,35-44,male,prof cert,U.K.,Black,CL6,CL0
+269,45-54,female,master's,U.K.,White,CL6,CL1
+270,35-44,female,master's,U.K.,Black,CL4,CL0
+271,45-54,female,master's,U.K.,White,CL6,CL1
+272,45-54,female,master's,U.K.,White,CL6,CL1
+273,55-64,male,PhD,U.K.,White,CL6,CL0
+274,25-34,female,undergrad,U.K.,White,CL6,CL3
+275,35-44,male,master's,U.K.,White,CL6,CL3
+276,35-44,female,master's,U.K.,White,CL4,CL1
+277,55-64,male,PhD,U.K.,White,CL6,CL0
+278,25-34,male,college,U.K.,White,CL5,CL4
+279,45-54,female,undergrad,U.K.,White,CL5,CL0
+280,45-54,male,master's,U.K.,White,CL5,CL1
+281,55-64,male,master's,U.K.,White,CL6,CL0
+282,45-54,female,college,U.K.,White,CL5,CL0
+283,45-54,female,master's,U.K.,White,CL5,CL1
+284,45-54,male,undergrad,U.K.,White,CL6,CL0
+285,35-44,male,prof cert,Other,White,CL3,CL2
+286,35-44,male,undergrad,U.K.,White,CL5,CL0
+287,45-54,female,undergrad,U.K.,White,CL5,CL0
+288,45-54,male,master's,U.K.,White,CL3,CL1
+289,25-34,male,college,U.K.,White,CL6,CL0
+290,25-34,female,master's,U.K.,White,CL4,CL2
+291,35-44,female,prof cert,U.K.,Black,CL0,CL0
+292,35-44,female,college,U.K.,White,CL5,CL5
+293,45-54,female,prof cert,U.K.,White,CL3,CL0
+295,25-34,female,prof cert,U.K.,White,CL3,CL3
+296,0-24,female,hs,U.K.,White,CL5,CL0
+297,35-44,male,prof cert,U.K.,White,CL5,CL2
+298,65+,female,hs,U.K.,White,CL0,CL0
+300,35-44,female,undergrad,U.K.,White,CL5,CL0
+301,35-44,female,prof cert,U.S.A.,White,CL5,CL0
+302,25-34,female,college,U.S.A.,White,CL3,CL0
+303,35-44,female,PhD,U.K.,White,CL6,CL0
+304,55-64,female,prof cert,U.K.,White,CL6,CL2
+305,45-54,female,undergrad,U.K.,White,CL6,CL0
+306,45-54,female,undergrad,U.K.,White,CL4,CL0
+307,35-44,male,master's,U.K.,White,CL5,CL2
+308,45-54,male,master's,U.K.,White,CL5,CL2
+309,35-44,female,hs,U.K.,White,CL5,CL0
+310,35-44,male,master's,U.K.,White,CL6,CL0
+311,45-54,female,undergrad,U.K.,White,CL3,CL0
+312,0-24,female,hs,U.K.,White,CL3,CL1
+313,45-54,female,master's,U.K.,White,CL6,CL0
+314,25-34,female,master's,U.K.,White,CL5,CL0
+315,0-24,female,hs,Irel.,White,CL5,CL0
+316,45-54,female,PhD,U.K.,White,CL5,CL0
+317,55-64,female,undergrad,U.K.,White,CL5,CL3
+318,35-44,male,undergrad,U.K.,Black,CL5,CL2
+319,25-34,female,prof cert,U.K.,White,CL2,CL0
+320,45-54,female,hs,U.K.,Other,CL4,CL0
+321,45-54,female,undergrad,U.K.,White,CL5,CL1
+322,35-44,female,college,U.K.,White,CL5,CL0
+323,0-24,female,undergrad,U.K.,White,CL5,CL2
+324,45-54,male,hs,U.K.,White,CL6,CL2
+325,25-34,female,PhD,U.K.,White,CL5,CL1
+326,35-44,female,prof cert,U.K.,White,CL5,CL0
+327,35-44,male,hs,U.K.,White,CL6,CL4
+328,45-54,male,master's,U.K.,White,CL6,CL0
+329,25-34,female,prof cert,U.K.,White,CL5,CL1
+330,45-54,male,prof cert,U.K.,White,CL4,CL1
+331,45-54,female,prof cert,U.K.,White,CL1,CL0
+332,35-44,male,hs,U.K.,White,CL6,CL2
+333,55-64,female,hs,Canada,White,CL0,CL0
+334,0-24,female,college,U.K.,White,CL6,CL5
+335,65+,male,college,Canada,White,CL4,CL0
+336,65+,female,hs,Canada,White,CL4,CL0
+337,25-34,female,master's,U.K.,White,CL6,CL3
+338,45-54,female,master's,U.K.,Black,CL5,CL0
+339,45-54,female,prof cert,Canada,White,CL5,CL2
+340,35-44,male,PhD,U.K.,White,CL6,CL0
+341,45-54,female,prof cert,U.K.,White,CL5,CL0
+342,35-44,female,master's,U.K.,White,CL5,CL6
+343,55-64,female,prof cert,U.K.,White,CL5,CL0
+344,55-64,female,prof cert,U.K.,White,CL1,CL0
+345,0-24,female,hs,U.K.,White,CL5,CL6
+346,35-44,female,master's,U.K.,White,CL1,CL1
+347,35-44,female,undergrad,U.K.,White,CL2,CL2
+348,45-54,female,undergrad,U.K.,White,CL6,CL3
+349,45-54,male,master's,U.K.,White,CL2,CL1
+350,45-54,male,prof cert,U.K.,Black,CL6,CL0
+351,45-54,male,undergrad,U.K.,White,CL5,CL3
+352,35-44,female,college,U.K.,White,CL4,CL2
+353,35-44,male,prof cert,U.K.,White,CL5,CL4
+354,45-54,male,undergrad,U.K.,White,CL1,CL1
+355,25-34,male,hs,U.K.,White,CL2,CL2
+356,35-44,male,prof cert,U.K.,White,CL2,CL1
+357,25-34,male,hs,U.K.,White,CL6,CL3
+358,45-54,male,undergrad,U.K.,White,CL6,CL1
+359,35-44,male,hs,U.K.,White,CL3,CL3
+360,35-44,male,college,U.K.,White,CL2,CL2
+361,25-34,female,college,U.K.,White,CL5,CL2
+362,45-54,female,undergrad,U.K.,White,CL2,CL2
+363,35-44,female,prof cert,U.K.,White,CL5,CL3
+364,45-54,male,undergrad,U.K.,White,CL2,CL2
+365,45-54,female,prof cert,U.K.,White,CL5,CL0
+366,35-44,female,PhD,U.K.,White,CL5,CL1
+367,45-54,male,prof cert,U.K.,Asian,CL5,CL1
+368,35-44,female,undergrad,U.K.,Asian,CL0,CL0
+369,45-54,female,undergrad,U.K.,White,CL5,CL2
+370,25-34,male,prof cert,U.K.,White,CL6,CL6
+371,25-34,female,undergrad,U.K.,White,CL3,CL2
+372,0-24,male,hs,Canada,White,CL5,CL6
+373,35-44,female,undergrad,U.K.,White,CL5,CL2
+374,0-24,female,college,U.K.,White,CL5,CL3
+375,45-54,male,undergrad,U.K.,White,CL6,CL4
+376,55-64,female,master's,U.K.,White,CL6,CL0
+377,65+,male,prof cert,U.K.,White,CL6,CL0
+378,45-54,female,master's,U.K.,White,CL5,CL2
+379,25-34,female,undergrad,U.K.,White,CL5,CL1
+380,25-34,male,master's,Other,White,CL0,CL0
+381,45-54,female,prof cert,U.K.,White,CL6,CL1
+382,35-44,male,undergrad,U.K.,White,CL2,CL2
+383,35-44,male,hs,Other,White,CL4,CL6
+384,35-44,female,master's,Other,White,CL5,CL1
+385,45-54,female,undergrad,U.K.,White,CL5,CL0
+386,45-54,female,undergrad,U.K.,Black,CL1,CL0
+387,25-34,male,prof cert,U.K.,White,CL5,CL2
+388,45-54,male,hs,U.K.,White,CL4,CL0
+389,25-34,male,undergrad,U.K.,Black,CL0,CL0
+390,35-44,male,prof cert,U.K.,White,CL3,CL1
+391,25-34,male,PhD,U.K.,White,CL5,CL1
+392,35-44,female,college,U.K.,White,CL2,CL1
+393,25-34,female,undergrad,U.K.,White,CL5,CL2
+394,35-44,female,hs,U.K.,White,CL5,CL0
+395,25-34,female,prof cert,U.K.,White,CL6,CL0
+396,25-34,male,prof cert,U.K.,White,CL6,CL1
+397,35-44,male,undergrad,U.K.,White,CL6,CL2
+398,35-44,female,undergrad,U.K.,White,CL6,CL2
+399,45-54,male,prof cert,U.K.,White,CL6,CL0
+400,25-34,female,master's,U.K.,White,CL6,CL5
+401,45-54,male,master's,U.K.,White,CL1,CL1
+402,25-34,female,hs,U.K.,White,CL4,CL1
+403,45-54,male,hs,U.K.,White,CL5,CL6
+404,0-24,male,college,U.K.,White,CL5,CL5
+405,0-24,male,undergrad,U.K.,White,CL5,CL5
+406,45-54,male,hs,U.K.,White,CL3,CL6
+407,0-24,female,hs,U.K.,White,CL5,CL5
+408,45-54,female,undergrad,U.K.,White,CL3,CL6
+409,35-44,male,hs,U.K.,Other,CL6,CL6
+410,25-34,male,undergrad,U.K.,White,CL3,CL6
+411,35-44,female,prof cert,U.S.A.,White,CL1,CL6
+412,45-54,male,hs,U.K.,White,CL5,CL6
+413,35-44,female,college,Other,White,CL3,CL1
+414,25-34,female,undergrad,U.K.,White,CL6,CL2
+415,35-44,male,college,U.K.,White,CL5,CL6
+416,35-44,female,college,U.K.,White,CL6,CL1
+417,0-24,male,hs,U.K.,White,CL6,CL6
+418,0-24,male,college,U.K.,White,CL5,CL6
+419,25-34,male,college,U.K.,White,CL5,CL2
+420,25-34,female,PhD,U.K.,White,CL6,CL4
+421,25-34,male,undergrad,U.K.,White,CL6,CL0
+422,0-24,male,hs,U.K.,White,CL4,CL6
+423,25-34,male,college,U.K.,White,CL5,CL2
+424,35-44,male,prof cert,U.K.,White,CL4,CL6
+425,35-44,female,undergrad,U.K.,Mixed,CL6,CL0
+426,45-54,female,PhD,U.S.A.,White,CL3,CL6
+427,35-44,male,undergrad,U.K.,White,CL6,CL5
+428,45-54,male,hs,U.K.,White,CL5,CL1
+429,35-44,male,undergrad,Other,White,CL6,CL6
+430,25-34,female,hs,U.K.,White,CL5,CL2
+431,25-34,male,hs,U.K.,White,CL5,CL1
+432,25-34,female,hs,U.K.,White,CL5,CL2
+433,25-34,male,undergrad,U.K.,White,CL5,CL0
+434,45-54,female,hs,U.K.,White,CL6,CL2
+435,0-24,female,undergrad,U.K.,White,CL5,CL0
+436,25-34,female,undergrad,U.K.,White,CL4,CL0
+437,55-64,male,college,U.S.A.,White,CL1,CL6
+438,45-54,male,hs,U.K.,White,CL6,CL6
+439,25-34,female,undergrad,U.S.A.,White,CL5,CL2
+440,0-24,female,college,U.S.A.,White,CL4,CL4
+441,35-44,female,undergrad,U.K.,White,CL6,CL2
+442,0-24,female,college,U.K.,White,CL3,CL2
+443,25-34,female,master's,U.K.,White,CL5,CL6
+444,35-44,male,hs,U.K.,White,CL5,CL1
+445,45-54,female,prof cert,U.K.,White,CL5,CL0
+446,45-54,female,undergrad,U.K.,White,CL5,CL0
+447,25-34,female,undergrad,U.K.,White,CL6,CL3
+448,25-34,male,master's,U.K.,White,CL6,CL2
+449,0-24,female,college,U.K.,White,CL5,CL3
+450,0-24,male,undergrad,U.K.,White,CL5,CL3
+451,0-24,female,undergrad,U.K.,White,CL5,CL5
+452,0-24,female,master's,U.K.,White,CL5,CL2
+453,35-44,female,undergrad,U.K.,White,CL5,CL2
+454,25-34,male,undergrad,U.K.,White,CL5,CL3
+455,45-54,male,PhD,U.K.,White,CL6,CL6
+456,0-24,female,undergrad,U.K.,White,CL6,CL3
+457,35-44,male,undergrad,U.K.,White,CL6,CL4
+458,35-44,female,master's,U.K.,White,CL5,CL1
+459,0-24,female,undergrad,U.K.,White,CL6,CL6
+460,25-34,male,master's,U.K.,White,CL4,CL4
+461,0-24,female,undergrad,U.K.,White,CL6,CL5
+462,0-24,male,college,U.K.,White,CL5,CL2
+463,35-44,male,college,U.K.,White,CL3,CL2
+464,45-54,male,hs,U.K.,White,CL6,CL1
+465,0-24,female,undergrad,U.K.,White,CL5,CL3
+466,0-24,female,master's,U.K.,White,CL5,CL2
+467,0-24,female,undergrad,U.K.,Asian,CL0,CL6
+468,45-54,male,undergrad,U.K.,White,CL6,CL1
+469,35-44,male,undergrad,U.K.,White,CL6,CL0
+470,25-34,male,undergrad,U.K.,White,CL5,CL3
+471,45-54,female,hs,U.S.A.,White,CL3,CL1
+472,0-24,female,undergrad,U.K.,White,CL4,CL0
+473,0-24,male,master's,U.K.,Mixed,CL5,CL6
+474,0-24,female,hs,U.K.,White,CL5,CL3
+475,35-44,female,college,U.S.A.,White,CL2,CL6
+476,55-64,female,undergrad,U.K.,Mixed,CL6,CL0
+477,45-54,female,undergrad,U.S.A.,White,CL3,CL6
+478,35-44,male,undergrad,U.K.,White,CL6,CL2
+479,35-44,female,prof cert,U.K.,White,CL6,CL2
+480,25-34,female,undergrad,U.K.,White,CL6,CL2
+481,25-34,female,master's,Australia,White,CL6,CL2
+482,0-24,male,college,U.S.A.,White,CL3,CL3
+483,35-44,female,undergrad,Australia,White,CL6,CL3
+484,35-44,male,college,U.K.,White,CL0,CL6
+485,25-34,female,undergrad,U.K.,White,CL2,CL6
+486,35-44,female,hs,U.K.,White,CL4,CL6
+487,45-54,female,hs,U.K.,White,CL6,CL6
+488,25-34,male,hs,Other,White,CL5,CL5
+489,35-44,female,hs,U.S.A.,White,CL4,CL6
+490,25-34,male,hs,U.K.,White,CL6,CL6
+491,0-24,male,hs,U.K.,White,CL3,CL6
+492,0-24,male,college,U.K.,White,CL5,CL6
+493,45-54,female,prof cert,U.K.,White,CL5,CL6
+494,0-24,male,hs,U.K.,White,CL6,CL6
+495,0-24,male,prof cert,U.K.,White,CL5,CL6
+496,0-24,male,college,U.K.,White,CL6,CL3
+497,0-24,male,prof cert,Other,Other,CL4,CL6
+498,55-64,male,college,U.S.A.,White,CL3,CL2
+499,25-34,male,master's,U.K.,White,CL6,CL2
+500,25-34,male,hs,Other,White,CL4,CL6
+501,55-64,female,college,U.K.,White,CL5,CL6
+502,35-44,female,prof cert,Irel.,White,CL3,CL6
+503,25-34,female,prof cert,U.K.,White,CL3,CL2
+504,0-24,male,college,U.S.A.,White,CL5,CL6
+505,55-64,female,prof cert,Canada,White,CL1,CL5
+506,35-44,male,hs,U.K.,White,CL1,CL6
+507,45-54,male,prof cert,Other,White,CL3,CL2
+508,35-44,male,undergrad,U.K.,White,CL4,CL2
+509,25-34,male,undergrad,U.K.,White,CL3,CL6
+510,35-44,male,hs,U.K.,White,CL5,CL2
+511,35-44,female,master's,Other,White,CL5,CL0
+512,35-44,male,undergrad,U.K.,White,CL5,CL5
+513,45-54,female,master's,U.K.,White,CL5,CL5
+514,0-24,male,college,U.K.,White,CL6,CL6
+515,55-64,male,hs,U.S.A.,White,CL3,CL5
+516,35-44,male,hs,U.K.,White,CL6,CL0
+517,0-24,female,hs,U.S.A.,White,CL5,CL6
+518,35-44,female,hs,U.K.,White,CL6,CL2
+519,25-34,female,master's,U.K.,White,CL2,CL2
+520,25-34,male,prof cert,Other,White,CL2,CL6
+521,25-34,male,master's,U.K.,White,CL5,CL3
+522,35-44,female,undergrad,U.K.,White,CL5,CL3
+523,45-54,female,hs,Australia,White,CL3,CL4
+524,0-24,male,college,U.S.A.,White,CL5,CL6
+525,0-24,male,college,U.K.,White,CL5,CL6
+526,35-44,female,hs,U.K.,White,CL2,CL2
+527,45-54,female,undergrad,Australia,White,CL5,CL6
+528,55-64,male,hs,U.K.,White,CL6,CL0
+529,0-24,male,prof cert,U.K.,White,CL4,CL5
+530,35-44,male,PhD,U.K.,White,CL6,CL2
+531,25-34,female,prof cert,U.K.,White,CL5,CL3
+532,55-64,male,undergrad,U.K.,White,CL5,CL1
+533,45-54,male,undergrad,U.K.,White,CL5,CL6
+534,0-24,female,undergrad,U.K.,White,CL4,CL0
+535,25-34,male,master's,U.K.,White,CL4,CL0
+536,35-44,female,master's,U.K.,White,CL6,CL0
+537,25-34,female,undergrad,U.S.A.,White,CL5,CL2
+538,0-24,female,undergrad,U.K.,White,CL6,CL4
+539,45-54,female,college,U.K.,Asian,CL0,CL0
+540,35-44,female,undergrad,U.K.,White,CL6,CL0
+541,45-54,male,master's,U.K.,White,CL6,CL0
+542,45-54,female,undergrad,U.K.,White,CL5,CL1
+543,45-54,female,undergrad,Other,Black,CL4,CL0
+544,35-44,male,hs,U.K.,White,CL6,CL5
+545,25-34,female,undergrad,U.K.,White,CL6,CL0
+546,0-24,female,hs,U.K.,White,CL5,CL4
+547,35-44,female,prof cert,U.K.,White,CL5,CL0
+548,45-54,female,college,U.S.A.,White,CL2,CL2
+549,25-34,female,master's,U.K.,White,CL5,CL0
+550,0-24,male,undergrad,U.K.,White,CL4,CL0
+551,25-34,female,master's,Other,White,CL4,CL2
+552,0-24,female,undergrad,U.K.,White,CL6,CL3
+553,35-44,female,master's,U.K.,White,CL4,CL4
+554,0-24,female,master's,U.K.,White,CL2,CL0
+555,25-34,female,master's,Other,Mixed,CL6,CL2
+556,25-34,female,PhD,U.K.,White,CL4,CL0
+557,45-54,female,master's,U.K.,White,CL6,CL0
+558,0-24,female,undergrad,U.K.,White,CL6,CL2
+559,25-34,female,undergrad,U.K.,White,CL4,CL0
+560,0-24,female,undergrad,U.K.,White,CL5,CL2
+561,45-54,female,undergrad,U.K.,White,CL6,CL1
+562,0-24,female,undergrad,U.K.,White,CL6,CL0
+563,35-44,female,undergrad,U.K.,White,CL5,CL2
+564,35-44,female,master's,U.K.,Other,CL6,CL2
+565,25-34,female,master's,U.K.,White,CL5,CL2
+566,45-54,female,college,U.K.,White,CL2,CL3
+567,45-54,female,master's,U.K.,White,CL5,CL0
+568,0-24,female,undergrad,U.K.,White,CL5,CL4
+569,0-24,male,undergrad,U.K.,White,CL6,CL3
+570,35-44,male,master's,U.K.,White,CL1,CL1
+571,35-44,female,PhD,U.K.,White,CL6,CL1
+572,35-44,female,prof cert,Australia,White,CL6,CL0
+573,0-24,female,master's,U.K.,White,CL6,CL0
+574,35-44,male,prof cert,U.K.,White,CL6,CL3
+575,55-64,female,college,U.S.A.,White,CL5,CL4
+576,35-44,female,undergrad,U.K.,White,CL6,CL2
+577,35-44,male,hs,U.K.,White,CL5,CL0
+578,25-34,female,master's,U.K.,Other,CL4,CL0
+579,25-34,female,undergrad,U.K.,White,CL4,CL2
+580,45-54,female,master's,U.K.,White,CL6,CL1
+581,0-24,female,master's,U.K.,White,CL5,CL2
+582,35-44,female,college,U.K.,White,CL6,CL2
+583,0-24,male,college,U.K.,White,CL6,CL5
+584,35-44,female,prof cert,U.K.,White,CL6,CL0
+585,0-24,female,college,U.S.A.,White,CL5,CL4
+586,25-34,male,undergrad,U.K.,White,CL2,CL1
+587,0-24,male,prof cert,U.K.,White,CL2,CL4
+588,0-24,male,college,U.K.,White,CL5,CL6
+589,25-34,female,hs,U.K.,White,CL5,CL6
+590,55-64,female,college,U.S.A.,White,CL2,CL6
+591,35-44,male,hs,U.K.,White,CL3,CL6
+592,35-44,female,undergrad,U.K.,White,CL6,CL1
+593,35-44,female,prof cert,U.S.A.,White,CL5,CL6
+594,25-34,male,prof cert,Other,Mixed,CL5,CL5
+595,35-44,male,hs,U.K.,White,CL5,CL5
+596,45-54,male,prof cert,Other,White,CL6,CL1
+597,0-24,male,hs,U.K.,White,CL5,CL5
+598,55-64,female,prof cert,Canada,White,CL1,CL4
+599,45-54,female,prof cert,U.S.A.,White,CL5,CL6
+600,0-24,male,college,U.K.,White,CL4,CL6
+601,45-54,female,master's,U.K.,White,CL6,CL1
+602,0-24,male,college,U.S.A.,White,CL4,CL6
+603,0-24,male,college,U.S.A.,White,CL6,CL6
+604,0-24,male,college,U.S.A.,White,CL6,CL6
+605,25-34,male,undergrad,U.S.A.,White,CL5,CL5
+606,35-44,female,college,U.S.A.,White,CL5,CL5
+607,55-64,female,master's,U.S.A.,White,CL5,CL6
+608,0-24,male,undergrad,U.K.,White,CL5,CL4
+609,45-54,male,college,U.S.A.,White,CL2,CL3
+610,25-34,male,undergrad,U.K.,White,CL6,CL6
+611,55-64,female,prof cert,Canada,White,CL4,CL5
+612,25-34,male,college,U.K.,White,CL6,CL6
+613,25-34,male,undergrad,U.K.,White,CL5,CL5
+614,35-44,male,undergrad,U.K.,White,CL1,CL6
+615,25-34,female,master's,U.K.,White,CL6,CL6
+616,25-34,female,hs,U.S.A.,White,CL3,CL3
+617,35-44,female,master's,U.K.,White,CL6,CL2
+618,45-54,female,college,U.S.A.,White,CL2,CL6
+619,45-54,male,prof cert,Irel.,White,CL3,CL6
+620,25-34,female,undergrad,U.K.,White,CL5,CL3
+621,55-64,male,master's,U.K.,White,CL5,CL0
+622,0-24,male,hs,U.K.,White,CL5,CL5
+623,35-44,male,master's,U.K.,White,CL5,CL2
+624,35-44,female,master's,U.K.,White,CL5,CL1
+625,45-54,female,master's,U.K.,White,CL6,CL1
+626,35-44,female,PhD,U.K.,White,CL6,CL1
+627,35-44,female,prof cert,U.K.,White,CL6,CL2
+628,35-44,male,undergrad,U.K.,White,CL6,CL2
+629,35-44,male,PhD,U.K.,White,CL5,CL5
+630,25-34,female,PhD,U.K.,White,CL5,CL3
+631,45-54,female,PhD,U.K.,Mixed,CL5,CL0
+632,35-44,female,PhD,U.K.,White,CL6,CL2
+633,0-24,female,undergrad,U.K.,White,CL5,CL0
+634,0-24,female,undergrad,U.K.,White,CL5,CL2
+635,25-34,female,master's,U.K.,White,CL5,CL3
+636,35-44,female,PhD,U.K.,White,CL6,CL5
+637,35-44,male,undergrad,U.K.,White,CL5,CL3
+638,45-54,female,undergrad,U.K.,White,CL4,CL1
+639,35-44,female,prof cert,Canada,White,CL4,CL0
+640,0-24,female,undergrad,U.K.,White,CL5,CL0
+641,25-34,male,hs,U.K.,White,CL5,CL6
+642,45-54,male,undergrad,U.K.,White,CL5,CL1
+643,35-44,male,master's,U.K.,White,CL5,CL1
+644,25-34,female,master's,U.K.,Black,CL5,CL4
+645,25-34,male,college,U.K.,White,CL5,CL4
+646,45-54,male,undergrad,U.K.,White,CL5,CL1
+647,0-24,female,undergrad,U.K.,White,CL5,CL0
+648,0-24,male,college,U.S.A.,White,CL6,CL5
+649,35-44,female,master's,U.S.A.,White,CL6,CL6
+650,25-34,female,undergrad,U.K.,White,CL5,CL2
+651,45-54,female,master's,U.K.,White,CL5,CL5
+652,25-34,male,master's,U.K.,White,CL5,CL2
+653,0-24,male,college,Australia,White,CL5,CL6
+654,0-24,male,college,U.S.A.,White,CL6,CL3
+655,35-44,female,hs,U.K.,White,CL5,CL1
+656,25-34,male,master's,Other,Other,CL5,CL4
+657,45-54,male,college,Canada,White,CL4,CL6
+658,45-54,male,prof cert,U.K.,White,CL5,CL4
+659,0-24,male,master's,U.K.,White,CL5,CL3
+660,25-34,male,PhD,Irel.,White,CL5,CL6
+661,25-34,female,master's,U.K.,Black,CL6,CL0
+662,0-24,female,undergrad,U.K.,White,CL6,CL2
+663,25-34,female,undergrad,U.K.,White,CL5,CL2
+664,25-34,female,PhD,U.K.,White,CL6,CL3
+665,0-24,male,undergrad,U.K.,White,CL5,CL3
+666,25-34,female,PhD,U.K.,White,CL6,CL2
+667,0-24,male,hs,U.K.,White,CL3,CL6
+668,35-44,male,college,U.K.,White,CL4,CL5
+669,45-54,male,undergrad,U.K.,White,CL5,CL2
+670,25-34,male,college,U.K.,White,CL6,CL6
+671,0-24,male,prof cert,U.K.,White,CL5,CL5
+672,35-44,male,prof cert,U.K.,White,CL2,CL6
+673,0-24,male,undergrad,U.K.,White,CL2,CL6
+674,0-24,female,college,U.K.,White,CL5,CL2
+675,0-24,female,master's,U.K.,Asian,CL3,CL0
+676,35-44,male,prof cert,U.K.,White,CL3,CL6
+677,0-24,male,prof cert,U.K.,White,CL3,CL6
+678,25-34,male,undergrad,U.K.,White,CL6,CL3
+679,0-24,male,college,U.K.,White,CL0,CL0
+680,0-24,female,college,U.K.,White,CL5,CL3
+681,45-54,male,PhD,U.K.,White,CL6,CL1
+682,35-44,male,college,U.K.,White,CL6,CL3
+683,25-34,male,master's,U.K.,White,CL6,CL1
+684,35-44,female,undergrad,U.K.,White,CL3,CL3
+685,35-44,female,prof cert,U.K.,White,CL4,CL4
+686,25-34,male,undergrad,Australia,White,CL6,CL6
+687,0-24,female,college,Canada,White,CL5,CL2
+688,45-54,female,hs,Australia,White,CL4,CL5
+689,35-44,male,college,U.S.A.,White,CL2,CL6
+690,55-64,female,master's,U.K.,White,CL6,CL1
+691,55-64,male,college,U.K.,White,CL6,CL0
+692,25-34,female,undergrad,U.K.,White,CL4,CL0
+693,45-54,female,master's,U.K.,White,CL6,CL1
+694,35-44,male,master's,U.K.,White,CL6,CL2
+695,35-44,male,prof cert,U.K.,White,CL5,CL6
+696,35-44,female,master's,U.K.,White,CL6,CL0
+697,55-64,male,undergrad,U.K.,White,CL5,CL6
+698,45-54,female,undergrad,Canada,Other,CL4,CL6
+699,35-44,male,undergrad,U.S.A.,White,CL6,CL5
+700,55-64,male,college,U.K.,White,CL6,CL6
+701,35-44,female,college,Other,White,CL5,CL6
+702,45-54,male,hs,U.K.,White,CL1,CL6
+703,35-44,female,undergrad,U.K.,White,CL3,CL3
+704,55-64,male,undergrad,U.K.,White,CL6,CL1
+705,35-44,male,college,U.S.A.,White,CL6,CL6
+706,0-24,male,college,U.K.,White,CL3,CL6
+707,0-24,female,undergrad,U.K.,White,CL4,CL2
+708,25-34,male,undergrad,U.K.,White,CL5,CL5
+709,0-24,male,college,U.K.,White,CL5,CL3
+710,0-24,male,prof cert,U.K.,White,CL3,CL4
+711,0-24,male,undergrad,U.K.,White,CL5,CL6
+712,0-24,male,college,U.S.A.,White,CL3,CL6
+713,25-34,female,master's,U.K.,White,CL4,CL3
+714,0-24,male,undergrad,U.S.A.,White,CL6,CL6
+715,0-24,male,prof cert,U.K.,White,CL5,CL5
+716,0-24,female,college,U.S.A.,White,CL5,CL6
+717,0-24,male,college,U.K.,White,CL3,CL6
+718,35-44,male,undergrad,U.S.A.,White,CL5,CL6
+719,0-24,male,hs,Other,White,CL5,CL6
+720,55-64,male,undergrad,U.K.,White,CL5,CL2
+721,35-44,male,college,U.K.,White,CL6,CL6
+722,35-44,female,prof cert,U.K.,White,CL4,CL6
+723,55-64,male,prof cert,U.K.,White,CL1,CL6
+724,25-34,female,undergrad,U.K.,White,CL5,CL2
+725,35-44,female,college,U.K.,White,CL4,CL6
+726,25-34,female,master's,U.K.,White,CL5,CL5
+727,0-24,male,prof cert,U.K.,White,CL6,CL4
+728,25-34,female,master's,U.K.,Mixed,CL5,CL0
+729,0-24,male,college,Canada,White,CL4,CL3
+730,25-34,female,hs,Australia,White,CL6,CL6
+731,35-44,female,undergrad,U.K.,White,CL5,CL1
+732,0-24,male,college,U.K.,White,CL4,CL5
+733,0-24,female,undergrad,U.K.,White,CL6,CL5
+734,35-44,male,hs,U.K.,Mixed,CL5,CL6
+735,0-24,male,college,U.K.,White,CL6,CL6
+736,25-34,female,undergrad,U.K.,White,CL4,CL5
+737,25-34,male,undergrad,U.K.,White,CL6,CL3
+738,25-34,male,undergrad,U.K.,White,CL5,CL2
+739,0-24,female,hs,Other,White,CL4,CL6
+740,25-34,male,master's,Other,White,CL6,CL6
+741,35-44,male,college,U.K.,White,CL5,CL6
+743,45-54,female,master's,U.K.,White,CL6,CL1
+744,35-44,female,undergrad,U.K.,White,CL5,CL1
+745,25-34,male,hs,U.K.,White,CL1,CL6
+746,45-54,male,college,U.K.,White,CL5,CL0
+747,25-34,female,hs,U.K.,White,CL6,CL0
+748,25-34,female,master's,U.K.,White,CL4,CL6
+749,35-44,female,hs,U.K.,White,CL2,CL6
+750,35-44,female,PhD,U.K.,White,CL5,CL0
+751,35-44,male,master's,U.K.,White,CL5,CL2
+752,25-34,female,prof cert,U.K.,White,CL6,CL3
+753,25-34,male,college,Other,White,CL6,CL5
+754,25-34,female,master's,U.K.,White,CL5,CL2
+755,25-34,male,PhD,U.K.,White,CL4,CL5
+756,0-24,male,college,U.S.A.,White,CL5,CL2
+757,0-24,female,master's,U.K.,Mixed,CL5,CL2
+758,0-24,female,college,Irel.,White,CL6,CL6
+759,0-24,male,college,U.S.A.,White,CL3,CL6
+760,0-24,male,PhD,U.K.,White,CL6,CL3
+761,25-34,male,undergrad,Canada,White,CL6,CL3
+762,0-24,male,college,U.S.A.,White,CL6,CL6
+763,25-34,female,undergrad,Australia,White,CL6,CL6
+764,0-24,female,undergrad,U.K.,White,CL5,CL3
+765,0-24,male,hs,U.K.,White,CL5,CL5
+766,0-24,male,college,U.S.A.,White,CL4,CL6
+767,0-24,male,college,U.S.A.,White,CL6,CL1
+768,25-34,male,master's,New Zealand,White,CL6,CL6
+769,0-24,female,prof cert,U.S.A.,Other,CL4,CL6
+770,25-34,male,undergrad,Australia,White,CL6,CL2
+771,0-24,male,college,U.S.A.,White,CL3,CL3
+772,0-24,female,master's,U.K.,Asian,CL0,CL0
+773,45-54,male,undergrad,U.K.,White,CL6,CL6
+774,45-54,female,prof cert,Canada,White,CL1,CL6
+775,0-24,male,hs,Other,White,CL4,CL4
+776,0-24,female,college,Other,White,CL4,CL6
+777,25-34,male,college,U.S.A.,White,CL3,CL5
+778,0-24,male,college,U.S.A.,Mixed,CL6,CL6
+779,0-24,male,college,Canada,White,CL4,CL6
+780,45-54,male,hs,U.K.,White,CL5,CL6
+781,0-24,female,prof cert,U.S.A.,White,CL4,CL3
+782,35-44,male,prof cert,U.S.A.,White,CL6,CL5
+783,0-24,male,college,U.S.A.,Other,CL3,CL4
+784,0-24,female,college,U.S.A.,White,CL6,CL6
+785,0-24,female,college,U.S.A.,White,CL6,CL3
+786,0-24,male,master's,U.S.A.,White,CL4,CL5
+787,0-24,male,prof cert,Other,White,CL3,CL6
+788,35-44,male,prof cert,Other,White,CL6,CL2
+789,0-24,male,prof cert,U.K.,White,CL5,CL0
+790,0-24,male,college,U.K.,White,CL3,CL5
+791,0-24,male,undergrad,Australia,White,CL5,CL5
+792,0-24,male,college,U.S.A.,White,CL5,CL3
+793,0-24,male,college,Other,White,CL5,CL5
+794,25-34,male,college,U.K.,White,CL5,CL0
+795,25-34,male,undergrad,U.K.,White,CL6,CL6
+796,0-24,male,college,U.S.A.,White,CL3,CL6
+797,0-24,male,college,U.S.A.,White,CL3,CL6
+798,0-24,female,undergrad,U.K.,White,CL5,CL5
+799,25-34,female,college,U.S.A.,White,CL6,CL4
+800,35-44,female,college,U.K.,White,CL5,CL6
+801,0-24,male,college,Canada,White,CL4,CL4
+802,25-34,male,college,U.S.A.,White,CL3,CL6
+803,0-24,male,hs,Irel.,White,CL5,CL5
+804,45-54,female,undergrad,U.S.A.,White,CL6,CL4
+805,25-34,male,college,U.S.A.,White,CL5,CL2
+806,0-24,female,undergrad,Canada,White,CL6,CL2
+807,25-34,male,college,U.S.A.,White,CL2,CL3
+808,0-24,male,hs,Australia,White,CL5,CL6
+809,0-24,female,college,U.S.A.,White,CL6,CL3
+810,0-24,male,undergrad,U.S.A.,White,CL3,CL3
+811,0-24,male,prof cert,U.K.,White,CL5,CL4
+812,0-24,male,hs,U.S.A.,White,CL3,CL4
+813,45-54,female,undergrad,U.S.A.,White,CL6,CL3
+814,0-24,male,college,U.S.A.,White,CL4,CL5
+815,25-34,male,undergrad,U.S.A.,White,CL3,CL2
+816,0-24,male,college,U.K.,White,CL5,CL6
+817,0-24,male,college,Canada,White,CL5,CL5
+818,0-24,female,college,U.S.A.,White,CL3,CL5
+819,45-54,male,PhD,Australia,White,CL4,CL5
+820,25-34,female,master's,U.K.,White,CL5,CL6
+821,0-24,male,college,Australia,Asian,CL3,CL4
+822,0-24,female,undergrad,U.S.A.,White,CL5,CL2
+823,0-24,male,college,U.K.,White,CL6,CL0
+824,0-24,male,college,U.S.A.,White,CL4,CL6
+825,0-24,male,college,Other,Mixed,CL5,CL6
+826,0-24,male,undergrad,Australia,White,CL5,CL5
+827,0-24,male,undergrad,U.S.A.,White,CL6,CL6
+828,0-24,male,college,U.S.A.,White,CL3,CL6
+829,0-24,male,undergrad,Other,White,CL6,CL3
+830,25-34,female,PhD,Australia,White,CL5,CL3
+831,0-24,male,college,U.S.A.,White,CL4,CL4
+832,0-24,male,prof cert,U.K.,White,CL6,CL5
+833,0-24,male,college,U.S.A.,White,CL4,CL3
+834,25-34,female,master's,U.S.A.,White,CL6,CL6
+835,45-54,female,PhD,U.S.A.,White,CL6,CL1
+836,25-34,female,master's,U.S.A.,White,CL5,CL0
+837,0-24,male,undergrad,U.S.A.,White,CL6,CL6
+838,0-24,male,undergrad,Australia,White,CL4,CL4
+839,45-54,male,master's,U.S.A.,White,CL3,CL2
+840,0-24,male,college,Australia,White,CL4,CL4
+841,0-24,male,hs,U.K.,White,CL6,CL3
+842,25-34,male,undergrad,U.S.A.,White,CL5,CL5
+843,0-24,male,college,U.S.A.,White,CL4,CL6
+844,0-24,male,college,U.S.A.,White,CL3,CL6
+845,25-34,female,college,U.S.A.,White,CL6,CL3
+846,0-24,female,college,U.S.A.,White,CL5,CL4
+847,35-44,male,college,U.S.A.,White,CL6,CL2
+848,0-24,female,prof cert,Canada,White,CL2,CL2
+849,25-34,male,undergrad,U.S.A.,White,CL3,CL3
+850,0-24,male,hs,U.S.A.,White,CL6,CL6
+851,55-64,male,master's,U.S.A.,White,CL4,CL6
+852,0-24,male,master's,Other,White,CL5,CL5
+853,0-24,male,college,U.S.A.,White,CL0,CL6
+854,25-34,male,undergrad,U.S.A.,White,CL2,CL2
+855,0-24,male,college,U.S.A.,White,CL5,CL6
+856,0-24,female,college,U.S.A.,White,CL5,CL4
+857,0-24,male,hs,Canada,Mixed,CL5,CL5
+858,25-34,male,college,U.K.,White,CL2,CL6
+859,0-24,male,prof cert,U.S.A.,Mixed,CL5,CL5
+860,25-34,male,hs,Canada,White,CL4,CL4
+861,0-24,male,college,U.S.A.,White,CL5,CL6
+862,0-24,female,college,Other,Asian,CL3,CL2
+863,25-34,male,college,Other,White,CL6,CL6
+864,0-24,male,undergrad,U.K.,White,CL6,CL6
+865,0-24,male,college,Canada,White,CL0,CL6
+866,0-24,male,college,Irel.,White,CL6,CL6
+867,0-24,female,college,U.S.A.,White,CL5,CL4
+868,0-24,male,college,Canada,White,CL5,CL4
+869,0-24,female,college,U.S.A.,White,CL6,CL6
+870,0-24,female,college,U.S.A.,White,CL5,CL5
+871,45-54,male,prof cert,U.K.,White,CL3,CL3
+872,25-34,male,undergrad,U.S.A.,White,CL6,CL2
+873,0-24,male,master's,U.S.A.,White,CL5,CL5
+874,25-34,female,master's,U.S.A.,White,CL5,CL5
+875,0-24,female,college,U.K.,White,CL4,CL2
+876,25-34,female,master's,U.S.A.,White,CL5,CL3
+877,0-24,female,college,U.S.A.,Other,CL5,CL6
+878,35-44,male,prof cert,U.S.A.,Other,CL3,CL4
+879,25-34,male,college,Australia,White,CL5,CL4
+880,0-24,female,undergrad,U.S.A.,White,CL5,CL6
+881,25-34,male,master's,U.S.A.,White,CL6,CL3
+882,0-24,female,hs,U.S.A.,White,CL5,CL6
+883,35-44,male,college,U.S.A.,White,CL4,CL4
+884,25-34,female,college,U.S.A.,White,CL2,CL2
+885,0-24,male,college,U.S.A.,White,CL6,CL6
+886,0-24,male,college,U.S.A.,Other,CL5,CL5
+887,25-34,male,college,Other,White,CL4,CL5
+888,0-24,male,undergrad,U.K.,White,CL4,CL5
+889,0-24,male,undergrad,U.K.,White,CL6,CL5
+890,0-24,female,college,U.S.A.,White,CL5,CL6
+891,0-24,female,college,U.S.A.,White,CL5,CL4
+892,0-24,male,college,U.S.A.,Other,CL4,CL4
+893,25-34,male,college,Irel.,White,CL5,CL5
+894,25-34,male,college,Other,White,CL3,CL2
+895,25-34,male,college,U.S.A.,White,CL4,CL4
+896,25-34,female,hs,U.K.,White,CL6,CL3
+897,0-24,male,college,Other,White,CL5,CL3
+898,0-24,female,prof cert,U.K.,White,CL4,CL6
+899,25-34,male,master's,U.S.A.,White,CL5,CL6
+900,25-34,male,undergrad,U.S.A.,White,CL6,CL6
+901,0-24,female,college,U.S.A.,White,CL6,CL4
+902,0-24,male,undergrad,Canada,White,CL5,CL4
+903,0-24,male,college,U.K.,Black,CL5,CL5
+904,25-34,female,master's,U.S.A.,White,CL6,CL4
+905,0-24,male,hs,U.S.A.,White,CL4,CL6
+906,35-44,female,undergrad,U.S.A.,White,CL6,CL2
+907,0-24,male,college,U.S.A.,White,CL2,CL6
+908,25-34,male,prof cert,Other,White,CL5,CL6
+909,35-44,male,undergrad,Australia,White,CL4,CL1
+910,0-24,male,college,U.S.A.,Other,CL5,CL6
+911,0-24,male,undergrad,U.S.A.,White,CL5,CL5
+912,25-34,female,college,U.S.A.,Other,CL6,CL6
+913,0-24,female,college,U.S.A.,White,CL4,CL4
+914,0-24,male,college,U.S.A.,White,CL4,CL5
+915,35-44,male,undergrad,U.S.A.,White,CL3,CL0
+916,0-24,female,college,U.S.A.,White,CL5,CL6
+917,25-34,female,hs,U.S.A.,White,CL5,CL6
+918,0-24,male,hs,U.S.A.,Mixed,CL6,CL4
+919,25-34,male,hs,U.S.A.,White,CL4,CL3
+920,0-24,female,college,U.S.A.,White,CL3,CL4
+921,0-24,male,hs,Canada,White,CL6,CL6
+922,35-44,male,master's,U.K.,White,CL5,CL2
+923,0-24,male,college,Other,White,CL6,CL6
+924,0-24,male,hs,Australia,White,CL3,CL6
+925,0-24,male,college,U.S.A.,White,CL3,CL4
+926,25-34,male,hs,U.S.A.,White,CL3,CL3
+927,0-24,male,hs,U.S.A.,White,CL3,CL6
+928,0-24,male,prof cert,U.S.A.,White,CL5,CL6
+929,25-34,male,college,U.S.A.,White,CL5,CL5
+930,25-34,male,college,U.S.A.,White,CL4,CL6
+931,0-24,female,college,U.K.,Other,CL4,CL6
+932,35-44,male,hs,U.K.,White,CL3,CL6
+933,25-34,female,undergrad,Australia,White,CL4,CL2
+934,0-24,female,hs,U.S.A.,White,CL3,CL3
+935,0-24,female,undergrad,U.K.,White,CL5,CL3
+936,0-24,female,college,U.S.A.,White,CL5,CL6
+937,0-24,female,college,U.S.A.,White,CL4,CL5
+938,0-24,male,prof cert,U.K.,White,CL3,CL5
+939,0-24,male,college,Other,White,CL6,CL6
+940,0-24,female,undergrad,U.K.,White,CL5,CL6
+941,0-24,male,college,Other,White,CL6,CL4
+942,25-34,female,hs,Other,White,CL5,CL5
+943,25-34,male,prof cert,U.S.A.,Other,CL4,CL6
+944,0-24,female,college,U.S.A.,Mixed,CL3,CL6
+945,25-34,female,master's,U.S.A.,White,CL3,CL3
+946,0-24,female,college,U.S.A.,White,CL4,CL6
+947,0-24,male,hs,U.S.A.,White,CL4,CL6
+948,25-34,male,prof cert,U.K.,White,CL6,CL3
+949,25-34,female,hs,Canada,White,CL2,CL2
+950,35-44,male,prof cert,U.S.A.,White,CL5,CL3
+951,0-24,female,undergrad,U.S.A.,White,CL6,CL4
+952,0-24,female,college,U.S.A.,White,CL3,CL6
+953,0-24,male,college,U.S.A.,White,CL5,CL6
+954,25-34,female,undergrad,U.K.,White,CL5,CL3
+955,0-24,male,college,Other,White,CL0,CL3
+956,0-24,male,prof cert,U.S.A.,White,CL4,CL6
+957,45-54,male,undergrad,U.S.A.,White,CL5,CL3
+958,35-44,male,prof cert,U.K.,White,CL6,CL6
+959,0-24,male,college,Other,White,CL5,CL6
+960,0-24,female,undergrad,Other,White,CL5,CL0
+961,45-54,female,college,U.S.A.,White,CL5,CL5
+962,0-24,male,prof cert,Australia,White,CL5,CL4
+963,25-34,male,college,U.S.A.,White,CL5,CL2
+964,35-44,male,college,U.K.,White,CL5,CL6
+965,0-24,male,college,U.S.A.,White,CL5,CL6
+966,25-34,female,master's,U.S.A.,White,CL5,CL6
+967,0-24,male,master's,U.K.,White,CL5,CL6
+968,0-24,female,college,U.S.A.,White,CL4,CL4
+969,0-24,female,college,U.S.A.,White,CL5,CL5
+970,0-24,male,college,U.S.A.,Black,CL6,CL5
+971,55-64,male,PhD,Other,Other,CL6,CL3
+972,35-44,female,undergrad,Canada,White,CL5,CL6
+973,25-34,male,college,Canada,White,CL6,CL6
+974,0-24,male,college,U.S.A.,White,CL6,CL4
+975,0-24,male,college,U.S.A.,White,CL6,CL6
+976,0-24,male,college,U.S.A.,White,CL5,CL6
+977,65+,male,master's,U.S.A.,White,CL1,CL1
+978,0-24,male,college,U.S.A.,White,CL0,CL6
+979,35-44,female,master's,U.K.,White,CL5,CL3
+980,45-54,female,college,U.S.A.,White,CL6,CL6
+981,25-34,female,PhD,U.S.A.,Asian,CL4,CL6
+982,0-24,male,college,Other,White,CL4,CL6
+983,0-24,male,college,U.K.,White,CL6,CL5
+984,25-34,female,undergrad,U.S.A.,White,CL5,CL5
+985,0-24,male,college,U.S.A.,White,CL6,CL6
+986,0-24,male,college,Other,White,CL5,CL6
+987,0-24,male,prof cert,U.S.A.,White,CL5,CL6
+988,25-34,male,college,U.S.A.,White,CL4,CL6
+989,0-24,male,college,U.S.A.,White,CL4,CL6
+990,25-34,male,undergrad,U.S.A.,White,CL5,CL4
+991,0-24,male,college,U.S.A.,White,CL6,CL6
+992,0-24,male,college,Australia,White,CL5,CL6
+993,55-64,male,prof cert,Other,White,CL3,CL4
+994,25-34,male,undergrad,U.K.,White,CL5,CL5
+995,0-24,male,college,U.S.A.,White,CL5,CL6
+996,0-24,male,master's,Other,White,CL5,CL6
+997,0-24,male,master's,U.K.,White,CL5,CL4
+998,25-34,male,master's,U.K.,White,CL6,CL2
+999,25-34,female,PhD,U.S.A.,White,CL3,CL6
+1000,0-24,male,college,U.S.A.,White,CL4,CL3
+1001,0-24,male,hs,New Zealand,White,CL5,CL4
+1002,0-24,male,college,U.S.A.,White,CL5,CL6
+1003,45-54,female,college,Other,White,CL4,CL6
+1004,0-24,male,college,Other,White,CL3,CL4
+1005,0-24,male,hs,Canada,White,CL5,CL6
+1006,0-24,male,hs,U.S.A.,Mixed,CL5,CL5
+1007,0-24,female,hs,U.S.A.,White,CL3,CL0
+1008,0-24,male,college,U.S.A.,White,CL4,CL4
+1009,45-54,male,master's,Other,White,CL6,CL3
+1010,0-24,female,hs,U.K.,White,CL5,CL3
+1011,45-54,male,undergrad,U.S.A.,White,CL6,CL3
+1012,0-24,female,college,U.S.A.,White,CL6,CL6
+1013,25-34,male,college,U.S.A.,White,CL6,CL4
+1014,0-24,male,college,U.S.A.,White,CL5,CL5
+1015,25-34,male,college,U.S.A.,White,CL5,CL3
+1016,45-54,male,undergrad,U.S.A.,White,CL1,CL4
+1017,0-24,male,prof cert,Other,White,CL6,CL6
+1018,25-34,male,college,U.S.A.,White,CL6,CL6
+1019,0-24,female,hs,U.K.,White,CL5,CL3
+1020,25-34,male,hs,Other,White,CL0,CL6
+1021,35-44,female,college,U.S.A.,White,CL3,CL5
+1022,0-24,male,undergrad,U.S.A.,White,CL6,CL6
+1023,0-24,female,college,U.K.,White,CL5,CL2
+1024,0-24,male,hs,Australia,White,CL5,CL5
+1025,0-24,male,college,U.S.A.,White,CL6,CL5
+1026,0-24,female,hs,U.S.A.,Other,CL4,CL3
+1027,0-24,female,undergrad,U.S.A.,White,CL5,CL4
+1028,45-54,male,PhD,U.S.A.,White,CL2,CL2
+1029,35-44,female,undergrad,U.S.A.,Asian,CL5,CL3
+1030,0-24,female,master's,U.S.A.,White,CL5,CL6
+1031,0-24,female,undergrad,U.K.,White,CL5,CL2
+1032,0-24,male,college,Australia,White,CL3,CL6
+1033,25-34,male,college,U.K.,White,CL3,CL2
+1034,0-24,male,college,U.S.A.,White,CL6,CL6
+1035,0-24,female,college,U.K.,White,CL6,CL6
+1036,0-24,male,prof cert,U.K.,White,CL6,CL3
+1037,0-24,female,college,U.S.A.,White,CL6,CL6
+1038,25-34,male,college,U.S.A.,White,CL4,CL4
+1039,35-44,female,master's,U.S.A.,White,CL6,CL6
+1040,0-24,female,college,U.S.A.,White,CL5,CL3
+1041,0-24,male,college,U.S.A.,White,CL6,CL6
+1042,35-44,female,master's,U.K.,White,CL6,CL1
+1043,35-44,male,undergrad,U.K.,White,CL6,CL0
+1044,25-34,male,college,Other,White,CL5,CL5
+1045,25-34,female,master's,U.K.,White,CL6,CL3
+1046,0-24,male,college,U.K.,White,CL6,CL5
+1047,25-34,female,master's,U.S.A.,White,CL5,CL3
+1048,0-24,male,college,U.S.A.,White,CL5,CL3
+1049,0-24,male,master's,U.K.,White,CL6,CL6
+1050,0-24,male,prof cert,U.K.,White,CL5,CL5
+1051,0-24,female,college,U.S.A.,White,CL5,CL5
+1052,25-34,male,PhD,Other,White,CL5,CL5
+1053,0-24,male,college,U.S.A.,White,CL5,CL6
+1054,0-24,male,hs,Canada,White,CL6,CL5
+1055,0-24,female,college,U.S.A.,White,CL5,CL6
+1056,25-34,male,hs,U.K.,White,CL6,CL4
+1057,25-34,female,college,U.S.A.,White,CL4,CL5
+1058,35-44,female,hs,U.S.A.,White,CL4,CL4
+1059,0-24,male,undergrad,U.S.A.,White,CL5,CL6
+1060,0-24,male,college,U.S.A.,White,CL5,CL5
+1061,45-54,female,master's,Other,White,CL5,CL1
+1062,0-24,female,hs,U.S.A.,Other,CL2,CL0
+1063,0-24,female,undergrad,U.S.A.,Mixed,CL5,CL4
+1064,25-34,male,college,U.S.A.,White,CL5,CL6
+1065,25-34,male,master's,Other,Other,CL5,CL6
+1066,0-24,male,college,U.S.A.,White,CL4,CL6
+1067,35-44,female,hs,Canada,White,CL5,CL2
+1068,35-44,male,undergrad,Canada,White,CL3,CL0
+1069,0-24,male,hs,U.K.,White,CL6,CL6
+1070,25-34,female,PhD,U.K.,White,CL6,CL2
+1071,25-34,female,master's,Other,Mixed,CL6,CL2
+1072,0-24,male,master's,U.K.,White,CL5,CL2
+1073,0-24,male,college,Irel.,White,CL5,CL3
+1074,0-24,female,master's,U.K.,White,CL2,CL0
+1075,35-44,female,PhD,U.K.,White,CL5,CL0
+1076,35-44,male,hs,U.K.,White,CL6,CL2
+1077,0-24,male,hs,U.K.,White,CL3,CL6
+1078,35-44,female,prof cert,Canada,White,CL4,CL1
+1079,25-34,female,undergrad,U.S.A.,White,CL3,CL3
+1080,45-54,male,prof cert,U.K.,White,CL4,CL0
+1081,35-44,female,prof cert,U.K.,White,CL4,CL1
+1082,25-34,female,master's,U.K.,Other,CL6,CL0
+1083,0-24,female,master's,U.K.,White,CL5,CL0
+1084,0-24,male,master's,U.K.,White,CL5,CL2
+1085,0-24,female,master's,U.K.,White,CL6,CL0
+1086,0-24,female,undergrad,U.K.,White,CL5,CL2
+1087,0-24,female,master's,U.K.,White,CL6,CL0
+1088,35-44,male,prof cert,Canada,White,CL6,CL3
+1089,0-24,female,master's,Other,White,CL3,CL0
+1090,0-24,female,master's,U.K.,White,CL6,CL2
+1091,25-34,female,master's,U.S.A.,White,CL6,CL0
+1092,25-34,female,undergrad,U.K.,White,CL6,CL5
+1093,0-24,female,master's,U.K.,White,CL5,CL0
+1094,45-54,female,hs,U.K.,White,CL4,CL3
+1095,0-24,male,undergrad,Australia,White,CL3,CL3
+1096,25-34,female,undergrad,Australia,White,CL6,CL4
+1097,35-44,male,master's,U.K.,Asian,CL5,CL0
+1098,25-34,male,master's,U.K.,White,CL5,CL2
+1099,0-24,male,hs,U.K.,White,CL5,CL5
+1100,25-34,male,college,U.S.A.,White,CL3,CL6
+1101,0-24,female,college,U.S.A.,White,CL4,CL5
+1102,0-24,female,master's,U.K.,White,CL5,CL5
+1103,0-24,male,college,Other,White,CL6,CL5
+1104,0-24,female,undergrad,U.S.A.,White,CL5,CL6
+1105,0-24,female,master's,Other,White,CL6,CL6
+1106,0-24,female,hs,U.S.A.,White,CL5,CL4
+1107,25-34,male,college,Other,White,CL6,CL5
+1108,25-34,female,PhD,U.K.,White,CL4,CL2
+1109,25-34,female,college,Other,White,CL5,CL6
+1110,0-24,male,undergrad,U.K.,White,CL5,CL4
+1111,0-24,male,college,U.K.,White,CL6,CL5
+1112,45-54,male,college,U.S.A.,White,CL5,CL1
+1113,0-24,female,college,U.S.A.,White,CL5,CL3
+1114,45-54,male,PhD,U.S.A.,White,CL6,CL3
+1115,0-24,male,hs,U.S.A.,White,CL5,CL6
+1116,0-24,male,college,U.S.A.,White,CL5,CL6
+1117,45-54,male,hs,U.K.,White,CL3,CL6
+1118,0-24,male,college,U.S.A.,Other,CL5,CL6
+1119,0-24,male,college,U.S.A.,White,CL6,CL6
+1120,25-34,female,undergrad,U.S.A.,White,CL6,CL6
+1121,0-24,male,college,U.S.A.,White,CL4,CL6
+1122,25-34,male,undergrad,U.K.,White,CL5,CL2
+1123,25-34,male,college,U.S.A.,White,CL2,CL2
+1124,0-24,male,hs,Canada,White,CL3,CL3
+1125,25-34,male,prof cert,U.K.,White,CL6,CL3
+1126,25-34,male,hs,U.K.,White,CL6,CL6
+1127,25-34,male,prof cert,U.S.A.,White,CL4,CL5
+1128,55-64,male,hs,U.S.A.,White,CL3,CL3
+1129,0-24,male,college,U.S.A.,White,CL4,CL6
+1130,0-24,male,college,U.S.A.,White,CL5,CL6
+1131,0-24,male,college,Other,White,CL5,CL5
+1132,0-24,male,college,Other,White,CL6,CL5
+1133,25-34,female,prof cert,U.S.A.,White,CL4,CL3
+1134,25-34,male,master's,New Zealand,White,CL6,CL6
+1135,35-44,male,prof cert,Australia,White,CL3,CL5
+1136,0-24,male,master's,U.S.A.,White,CL5,CL3
+1137,0-24,male,hs,U.S.A.,White,CL3,CL6
+1138,25-34,female,PhD,U.K.,White,CL5,CL0
+1139,25-34,female,undergrad,Other,White,CL5,CL0
+1140,25-34,male,college,U.S.A.,White,CL6,CL6
+1141,0-24,female,college,U.S.A.,White,CL6,CL5
+1142,25-34,female,undergrad,Australia,White,CL4,CL6
+1143,35-44,male,prof cert,U.S.A.,White,CL4,CL4
+1144,0-24,female,college,U.S.A.,White,CL6,CL4
+1145,45-54,male,undergrad,U.K.,White,CL1,CL1
+1146,0-24,male,college,Irel.,White,CL5,CL4
+1147,25-34,male,master's,U.S.A.,White,CL5,CL6
+1148,25-34,male,undergrad,U.S.A.,White,CL5,CL2
+1149,35-44,male,prof cert,U.S.A.,White,CL3,CL3
+1150,0-24,male,college,U.S.A.,White,CL5,CL6
+1151,45-54,female,hs,Australia,White,CL1,CL6
+1152,25-34,male,college,U.S.A.,White,CL4,CL4
+1153,35-44,female,undergrad,U.S.A.,White,CL1,CL6
+1154,55-64,female,master's,U.S.A.,Other,CL3,CL0
+1155,0-24,male,hs,Other,White,CL4,CL4
+1156,0-24,female,master's,U.K.,White,CL6,CL6
+1157,0-24,male,PhD,U.K.,White,CL6,CL5
+1158,0-24,female,college,U.K.,White,CL3,CL2
+1159,0-24,male,college,U.K.,White,CL4,CL6
+1160,45-54,male,prof cert,Irel.,White,CL3,CL6
+1161,25-34,female,undergrad,Canada,White,CL6,CL3
+1162,0-24,male,hs,U.S.A.,Other,CL5,CL5
+1163,0-24,male,college,U.S.A.,White,CL5,CL5
+1164,25-34,female,PhD,U.K.,White,CL5,CL0
+1165,25-34,male,hs,Australia,White,CL4,CL2
+1166,25-34,male,college,U.S.A.,White,CL5,CL5
+1167,35-44,male,undergrad,U.S.A.,White,CL6,CL3
+1168,25-34,male,undergrad,U.S.A.,White,CL5,CL6
+1169,0-24,male,hs,U.S.A.,White,CL6,CL6
+1170,45-54,male,prof cert,U.S.A.,White,CL5,CL2
+1171,35-44,female,undergrad,U.S.A.,White,CL6,CL3
+1172,35-44,male,college,U.S.A.,White,CL3,CL6
+1173,0-24,male,college,U.S.A.,White,CL5,CL6
+1174,0-24,female,college,U.S.A.,White,CL4,CL6
+1175,0-24,male,college,U.S.A.,Other,CL4,CL6
+1176,25-34,male,master's,U.S.A.,White,CL6,CL4
+1177,0-24,male,college,U.S.A.,Other,CL3,CL4
+1178,0-24,male,college,Other,White,CL5,CL3
+1179,25-34,female,college,U.S.A.,White,CL5,CL2
+1180,25-34,female,master's,U.S.A.,White,CL4,CL4
+1181,0-24,male,college,U.S.A.,White,CL0,CL6
+1182,0-24,male,college,U.S.A.,White,CL2,CL6
+1183,25-34,male,college,Other,White,CL5,CL4
+1184,25-34,female,prof cert,Australia,White,CL6,CL4
+1185,0-24,male,undergrad,U.S.A.,White,CL5,CL6
+1186,45-54,male,hs,U.S.A.,White,CL4,CL5
+1187,0-24,male,college,U.S.A.,White,CL5,CL5
+1188,0-24,male,college,Other,White,CL6,CL4
+1189,25-34,female,undergrad,U.K.,White,CL5,CL3
+1190,55-64,female,PhD,U.S.A.,White,CL6,CL6
+1191,0-24,male,college,Canada,White,CL4,CL6
+1192,0-24,male,master's,U.S.A.,White,CL5,CL5
+1193,0-24,female,college,U.S.A.,White,CL3,CL0
+1194,0-24,male,hs,Canada,White,CL6,CL6
+1195,0-24,male,college,U.S.A.,White,CL5,CL5
+1196,35-44,male,undergrad,U.S.A.,White,CL5,CL0
+1197,0-24,male,college,U.S.A.,White,CL5,CL2
+1198,0-24,male,college,U.S.A.,White,CL4,CL6
+1199,25-34,male,undergrad,Canada,White,CL0,CL0
+1200,25-34,male,hs,U.S.A.,White,CL5,CL6
+1201,0-24,male,college,U.S.A.,White,CL3,CL4
+1202,25-34,female,undergrad,Other,White,CL6,CL0
+1203,0-24,male,college,U.S.A.,White,CL5,CL6
+1204,0-24,male,college,U.S.A.,White,CL6,CL6
+1205,0-24,male,hs,U.S.A.,Mixed,CL5,CL6
+1206,25-34,male,college,U.S.A.,White,CL3,CL6
+1207,0-24,female,hs,U.K.,White,CL5,CL4
+1208,45-54,male,undergrad,U.K.,White,CL4,CL0
+1209,0-24,male,prof cert,U.S.A.,Other,CL6,CL6
+1210,0-24,male,college,Canada,Mixed,CL3,CL3
+1211,45-54,male,undergrad,Australia,White,CL5,CL3
+1212,0-24,male,college,Canada,White,CL5,CL6
+1213,0-24,male,college,Other,White,CL5,CL3
+1214,0-24,female,college,Canada,White,CL4,CL3
+1215,0-24,male,college,Australia,White,CL5,CL6
+1216,35-44,female,prof cert,U.K.,White,CL6,CL1
+1217,25-34,male,prof cert,U.S.A.,White,CL6,CL6
+1218,0-24,male,prof cert,Canada,White,CL5,CL6
+1219,0-24,male,college,U.S.A.,White,CL5,CL5
+1220,25-34,female,master's,U.S.A.,White,CL5,CL5
+1221,0-24,female,college,Other,White,CL4,CL3
+1222,0-24,female,prof cert,U.S.A.,White,CL4,CL5
+1223,0-24,female,hs,U.S.A.,White,CL6,CL6
+1224,0-24,male,college,U.S.A.,White,CL5,CL6
+1225,25-34,male,PhD,U.S.A.,White,CL5,CL0
+1226,0-24,female,college,U.S.A.,White,CL5,CL3
+1227,0-24,male,undergrad,U.S.A.,White,CL6,CL5
+1228,25-34,female,undergrad,U.S.A.,White,CL5,CL6
+1229,35-44,male,hs,U.S.A.,White,CL2,CL3
+1230,0-24,male,college,U.S.A.,Mixed,CL3,CL5
+1231,0-24,female,hs,U.S.A.,White,CL6,CL6
+1232,0-24,female,undergrad,Other,Other,CL6,CL6
+1233,0-24,female,college,Other,White,CL5,CL0
+1234,0-24,male,undergrad,U.K.,White,CL5,CL4
+1235,0-24,male,college,U.S.A.,White,CL4,CL6
+1236,55-64,male,master's,U.S.A.,White,CL5,CL1
+1237,45-54,female,master's,U.K.,White,CL5,CL1
+1238,0-24,male,undergrad,U.S.A.,White,CL4,CL6
+1239,25-34,male,hs,U.S.A.,White,CL5,CL6
+1240,0-24,female,undergrad,U.K.,White,CL6,CL0
+1241,45-54,female,college,U.K.,White,CL2,CL1
+1242,35-44,female,undergrad,U.K.,White,CL6,CL0
+1243,25-34,female,undergrad,U.K.,White,CL3,CL1
+1244,45-54,female,undergrad,U.K.,White,CL4,CL1
+1245,25-34,female,undergrad,U.K.,White,CL6,CL2
+1246,45-54,female,undergrad,U.K.,White,CL4,CL1
+1247,45-54,female,prof cert,U.K.,White,CL3,CL1
+1248,55-64,male,undergrad,U.K.,White,CL6,CL1
+1249,45-54,female,prof cert,U.K.,White,CL5,CL0
+1250,45-54,female,master's,U.K.,White,CL5,CL1
+1251,35-44,female,master's,U.K.,White,CL6,CL0
+1252,45-54,female,PhD,U.K.,Mixed,CL6,CL2
+1253,35-44,female,hs,U.K.,White,CL5,CL0
+1254,35-44,female,undergrad,U.K.,White,CL6,CL1
+1255,25-34,female,undergrad,U.K.,Other,CL3,CL0
+1256,45-54,female,undergrad,U.K.,White,CL6,CL0
+1257,35-44,female,undergrad,U.K.,White,CL5,CL0
+1258,25-34,female,master's,U.K.,White,CL6,CL0
+1259,25-34,female,PhD,U.K.,White,CL3,CL0
+1260,45-54,female,master's,U.K.,White,CL3,CL0
+1261,45-54,female,undergrad,U.K.,White,CL5,CL6
+1262,25-34,female,college,U.K.,White,CL4,CL0
+1263,25-34,female,prof cert,U.K.,White,CL6,CL3
+1264,45-54,female,undergrad,U.K.,White,CL6,CL1
+1265,25-34,female,prof cert,U.K.,White,CL6,CL0
+1266,35-44,female,hs,U.K.,White,CL5,CL0
+1267,25-34,female,master's,U.K.,White,CL5,CL2
+1268,35-44,female,prof cert,U.K.,White,CL6,CL0
+1269,35-44,female,undergrad,U.K.,White,CL5,CL0
+1270,25-34,female,master's,U.K.,White,CL5,CL1
+1271,25-34,female,prof cert,U.K.,White,CL3,CL3
+1272,55-64,female,undergrad,U.K.,White,CL6,CL0
+1273,35-44,female,college,Other,White,CL4,CL0
+1274,35-44,male,PhD,Other,White,CL4,CL0
+1275,35-44,female,master's,U.K.,White,CL5,CL2
+1276,45-54,female,prof cert,U.K.,White,CL3,CL2
+1277,0-24,male,college,U.S.A.,White,CL5,CL6
+1278,25-34,female,college,U.S.A.,Mixed,CL5,CL6
+1279,35-44,female,prof cert,U.S.A.,White,CL4,CL4
+1280,0-24,female,undergrad,U.K.,Asian,CL5,CL0
+1281,0-24,male,undergrad,U.K.,Asian,CL0,CL0
+1282,0-24,male,college,U.S.A.,White,CL4,CL5
+1283,0-24,female,college,U.K.,Other,CL4,CL6
+1284,0-24,female,college,U.S.A.,White,CL4,CL5
+1285,0-24,male,college,U.S.A.,White,CL6,CL6
+1286,0-24,male,college,U.S.A.,Mixed,CL5,CL6
+1287,0-24,male,college,U.S.A.,White,CL3,CL6
+1288,35-44,female,undergrad,U.S.A.,White,CL6,CL2
+1289,0-24,female,college,U.S.A.,White,CL4,CL6
+1290,0-24,male,master's,U.K.,White,CL5,CL5
+1291,0-24,male,college,Other,Other,CL5,CL3
+1292,25-34,male,prof cert,U.K.,White,CL5,CL6
+1293,25-34,male,college,U.S.A.,White,CL5,CL4
+1294,25-34,female,master's,U.S.A.,White,CL6,CL6
+1295,0-24,female,college,U.S.A.,White,CL5,CL6
+1296,0-24,male,college,U.S.A.,White,CL4,CL6
+1297,0-24,female,college,U.S.A.,White,CL6,CL4
+1298,0-24,male,college,U.S.A.,Other,CL4,CL6
+1299,35-44,female,undergrad,U.S.A.,White,CL6,CL3
+1300,25-34,male,college,U.S.A.,White,CL3,CL3
+1301,35-44,female,college,U.S.A.,White,CL3,CL4
+1302,0-24,female,college,U.S.A.,White,CL3,CL6
+1303,0-24,male,undergrad,U.S.A.,White,CL5,CL3
+1304,35-44,male,undergrad,Australia,White,CL5,CL2
+1305,0-24,female,college,U.S.A.,White,CL5,CL6
+1306,0-24,male,college,Australia,White,CL6,CL6
+1307,25-34,male,college,U.S.A.,White,CL4,CL6
+1308,25-34,male,master's,U.K.,White,CL6,CL2
+1309,25-34,female,undergrad,Other,Other,CL5,CL5
+1310,25-34,female,master's,Irel.,White,CL5,CL2
+1311,0-24,male,hs,Other,White,CL5,CL3
+1312,0-24,female,college,U.K.,White,CL6,CL3
+1313,35-44,female,master's,U.S.A.,White,CL6,CL6
+1314,0-24,female,college,U.S.A.,White,CL6,CL4
+1315,35-44,male,undergrad,U.S.A.,White,CL6,CL5
+1316,0-24,male,undergrad,Other,White,CL2,CL5
+1317,25-34,male,prof cert,U.S.A.,White,CL5,CL6
+1318,25-34,female,undergrad,U.K.,White,CL5,CL2
+1319,0-24,female,college,U.S.A.,Asian,CL5,CL2
+1320,35-44,male,undergrad,U.S.A.,White,CL6,CL2
+1321,0-24,male,college,U.S.A.,White,CL5,CL5
+1322,0-24,female,college,U.S.A.,Other,CL4,CL4
+1323,0-24,female,undergrad,Other,White,CL5,CL5
+1324,35-44,male,college,U.S.A.,White,CL1,CL1
+1325,0-24,female,college,U.S.A.,White,CL4,CL5
+1326,0-24,male,prof cert,Australia,White,CL4,CL5
+1327,0-24,male,prof cert,Canada,White,CL4,CL6
+1328,0-24,male,college,U.S.A.,White,CL4,CL6
+1329,0-24,female,undergrad,U.S.A.,White,CL5,CL6
+1330,25-34,female,undergrad,U.K.,White,CL5,CL2
+1331,0-24,male,undergrad,U.S.A.,Mixed,CL5,CL4
+1332,35-44,male,undergrad,U.S.A.,White,CL2,CL6
+1333,0-24,female,prof cert,Canada,White,CL4,CL5
+1334,0-24,male,undergrad,U.S.A.,White,CL5,CL6
+1335,25-34,male,college,Other,White,CL5,CL6
+1336,45-54,male,undergrad,U.S.A.,White,CL4,CL3
+1337,0-24,female,undergrad,U.K.,White,CL6,CL2
+1338,0-24,female,undergrad,U.K.,Black,CL6,CL0
+1339,35-44,male,prof cert,Canada,White,CL6,CL4
+1340,0-24,male,prof cert,U.S.A.,White,CL5,CL5
+1341,0-24,male,hs,U.S.A.,Other,CL5,CL4
+1342,35-44,male,hs,U.S.A.,Black,CL6,CL6
+1343,35-44,female,PhD,Other,White,CL3,CL3
+1344,0-24,male,prof cert,U.K.,White,CL5,CL3
+1345,0-24,male,hs,Canada,White,CL5,CL6
+1346,0-24,male,hs,Other,White,CL5,CL5
+1347,45-54,male,college,U.S.A.,White,CL6,CL6
+1348,0-24,male,undergrad,U.S.A.,White,CL5,CL4
+1349,0-24,female,hs,U.S.A.,White,CL4,CL6
+1350,0-24,female,college,U.K.,White,CL5,CL4
+1351,0-24,female,college,U.S.A.,White,CL3,CL6
+1352,0-24,female,undergrad,U.K.,White,CL5,CL0
+1353,55-64,male,undergrad,U.S.A.,White,CL2,CL2
+1354,0-24,female,hs,U.S.A.,White,CL3,CL6
+1355,0-24,male,college,U.S.A.,White,CL5,CL6
+1356,0-24,male,undergrad,U.S.A.,White,CL4,CL6
+1357,25-34,male,college,Other,White,CL6,CL4
+1358,0-24,male,prof cert,Canada,White,CL4,CL3
+1359,0-24,male,college,U.S.A.,White,CL4,CL6
+1360,0-24,male,college,U.S.A.,White,CL4,CL3
+1361,0-24,female,college,Australia,White,CL5,CL5
+1362,0-24,female,college,Other,White,CL3,CL6
+1363,0-24,male,college,U.S.A.,White,CL6,CL4
+1364,25-34,female,master's,U.K.,White,CL5,CL0
+1365,0-24,male,college,U.K.,White,CL5,CL6
+1366,35-44,female,undergrad,U.S.A.,White,CL6,CL6
+1367,0-24,female,hs,Canada,White,CL6,CL6
+1368,0-24,male,hs,U.S.A.,White,CL3,CL4
+1369,0-24,female,college,U.S.A.,White,CL5,CL6
+1370,0-24,male,college,U.S.A.,White,CL5,CL5
+1371,25-34,female,prof cert,U.S.A.,White,CL4,CL5
+1372,25-34,female,master's,U.K.,White,CL6,CL2
+1373,0-24,male,college,U.S.A.,White,CL4,CL6
+1374,25-34,male,undergrad,Canada,White,CL5,CL6
+1375,45-54,male,undergrad,U.K.,Other,CL6,CL1
+1376,0-24,male,hs,U.K.,White,CL3,CL5
+1377,35-44,male,undergrad,Other,White,CL5,CL2
+1378,25-34,female,master's,U.K.,White,CL5,CL0
+1379,25-34,female,master's,Canada,Mixed,CL3,CL4
+1380,0-24,male,college,U.S.A.,White,CL5,CL6
+1381,25-34,female,undergrad,U.K.,White,CL5,CL0
+1382,0-24,male,college,U.S.A.,White,CL6,CL6
+1383,0-24,male,college,Other,White,CL5,CL6
+1384,0-24,female,undergrad,U.S.A.,White,CL5,CL6
+1385,0-24,male,college,U.S.A.,White,CL5,CL5
+1386,0-24,female,college,U.K.,White,CL5,CL2
+1387,45-54,female,college,U.K.,White,CL6,CL1
+1388,25-34,female,PhD,U.S.A.,White,CL0,CL0
+1389,35-44,female,prof cert,U.K.,White,CL5,CL4
+1390,0-24,male,college,U.S.A.,White,CL5,CL6
+1391,0-24,male,undergrad,U.S.A.,White,CL5,CL6
+1392,0-24,male,college,U.S.A.,Mixed,CL5,CL4
+1393,45-54,male,prof cert,U.K.,White,CL0,CL0
+1394,25-34,female,master's,U.K.,White,CL3,CL3
+1395,25-34,female,master's,U.K.,White,CL3,CL0
+1396,25-34,female,undergrad,U.K.,White,CL5,CL2
+1397,25-34,female,master's,U.K.,White,CL5,CL0
+1398,0-24,female,undergrad,U.K.,White,CL5,CL4
+1399,0-24,male,college,U.K.,White,CL3,CL2
+1400,25-34,female,undergrad,U.K.,White,CL5,CL2
+1401,25-34,female,master's,U.K.,White,CL5,CL3
+1402,25-34,female,undergrad,U.K.,White,CL5,CL0
+1403,25-34,female,undergrad,U.K.,White,CL6,CL3
+1404,25-34,female,undergrad,U.K.,White,CL5,CL0
+1405,0-24,female,undergrad,U.K.,White,CL5,CL0
+1406,25-34,female,PhD,U.K.,Mixed,CL6,CL2
+1407,25-34,female,undergrad,U.K.,White,CL6,CL2
+1408,25-34,female,master's,U.K.,White,CL5,CL5
+1409,25-34,male,master's,U.K.,White,CL6,CL2
+1410,25-34,female,PhD,U.K.,White,CL5,CL5
+1411,25-34,female,undergrad,U.K.,White,CL3,CL0
+1412,25-34,female,undergrad,U.S.A.,White,CL5,CL6
+1413,25-34,female,master's,U.K.,White,CL5,CL2
+1414,25-34,female,undergrad,U.K.,White,CL5,CL2
+1415,25-34,female,PhD,U.K.,White,CL5,CL4
+1416,0-24,male,hs,U.K.,White,CL3,CL6
+1417,0-24,male,college,Australia,White,CL5,CL6
+1418,0-24,female,undergrad,U.K.,Asian,CL0,CL0
+1419,25-34,female,master's,Irel.,White,CL5,CL1
+1420,0-24,male,college,U.S.A.,White,CL6,CL6
+1421,25-34,male,college,U.S.A.,White,CL4,CL6
+1422,25-34,male,college,U.S.A.,White,CL6,CL6
+1423,45-54,male,hs,Irel.,White,CL1,CL6
+1424,0-24,male,undergrad,U.S.A.,White,CL4,CL6
+1425,25-34,male,college,U.K.,White,CL5,CL4
+1426,25-34,female,undergrad,U.S.A.,White,CL6,CL6
+1427,35-44,male,prof cert,U.K.,Black,CL5,CL2
+1428,0-24,female,prof cert,U.K.,Other,CL6,CL0
+1429,0-24,male,college,U.S.A.,White,CL4,CL5
+1430,0-24,female,college,U.S.A.,White,CL3,CL5
+1431,0-24,male,college,U.S.A.,White,CL6,CL0
+1432,0-24,female,college,U.S.A.,White,CL6,CL5
+1433,45-54,female,PhD,U.K.,White,CL6,CL3
+1434,25-34,female,master's,U.K.,Mixed,CL5,CL0
+1435,25-34,female,master's,U.K.,White,CL2,CL0
+1436,55-64,female,master's,U.K.,White,CL6,CL1
+1437,55-64,female,prof cert,U.K.,White,CL5,CL2
+1438,0-24,male,hs,U.S.A.,White,CL3,CL3
+1439,0-24,male,college,U.S.A.,White,CL5,CL5
+1440,0-24,male,college,Other,White,CL6,CL5
+1441,35-44,female,master's,U.K.,White,CL6,CL0
+1442,45-54,female,master's,U.K.,White,CL6,CL0
+1443,25-34,female,master's,U.K.,White,CL1,CL0
+1444,35-44,female,PhD,U.K.,White,CL6,CL2
+1445,35-44,female,master's,U.K.,White,CL6,CL1
+1446,45-54,female,master's,U.K.,White,CL5,CL1
+1447,25-34,female,master's,U.K.,White,CL4,CL0
+1448,25-34,female,master's,U.K.,White,CL4,CL0
+1449,25-34,female,undergrad,U.S.A.,Black,CL5,CL0
+1450,0-24,female,master's,U.K.,Asian,CL0,CL0
+1451,25-34,female,master's,U.K.,White,CL5,CL2
+1452,25-34,female,PhD,U.K.,White,CL5,CL2
+1453,0-24,male,college,U.S.A.,White,CL3,CL5
+1454,0-24,female,undergrad,U.K.,White,CL4,CL0
+1455,25-34,female,PhD,U.K.,White,CL5,CL0
+1456,0-24,male,prof cert,U.S.A.,White,CL5,CL5
+1457,45-54,female,master's,U.K.,White,CL5,CL0
+1458,25-34,female,PhD,U.K.,White,CL4,CL3
+1459,25-34,female,undergrad,U.K.,White,CL4,CL1
+1460,0-24,female,undergrad,U.K.,White,CL5,CL3
+1461,35-44,female,PhD,U.K.,White,CL5,CL1
+1462,55-64,male,master's,U.K.,White,CL5,CL1
+1463,25-34,male,master's,U.K.,White,CL5,CL3
+1464,0-24,male,college,U.S.A.,White,CL6,CL6
+1465,25-34,male,master's,U.K.,White,CL4,CL0
+1466,25-34,female,college,U.S.A.,Mixed,CL3,CL6
+1467,0-24,female,undergrad,U.S.A.,White,CL5,CL6
+1468,55-64,female,undergrad,U.S.A.,White,CL4,CL6
+1469,25-34,female,master's,U.K.,White,CL4,CL2
+1470,0-24,female,undergrad,U.K.,White,CL5,CL0
+1471,65+,male,undergrad,U.K.,White,CL0,CL0
+1472,55-64,male,master's,U.K.,White,CL5,CL4
+1473,0-24,male,college,U.S.A.,White,CL6,CL4
+1474,25-34,female,master's,U.S.A.,White,CL6,CL3
+1475,45-54,male,college,Canada,Other,CL4,CL4
+1476,25-34,female,college,U.S.A.,White,CL5,CL2
+1477,25-34,male,prof cert,Canada,White,CL5,CL6
+1478,0-24,male,college,U.S.A.,White,CL6,CL6
+1479,0-24,male,college,U.S.A.,White,CL6,CL6
+1480,35-44,female,prof cert,U.S.A.,White,CL5,CL1
+1481,25-34,female,college,U.S.A.,Other,CL3,CL2
+1482,45-54,female,undergrad,U.S.A.,White,CL4,CL6
+1483,45-54,female,PhD,U.K.,White,CL5,CL0
+1484,25-34,female,undergrad,U.K.,White,CL5,CL4
+1485,35-44,male,prof cert,U.S.A.,White,CL3,CL2
+1486,25-34,female,PhD,U.K.,White,CL5,CL0
+1487,0-24,male,college,Other,White,CL6,CL6
+1488,25-34,female,undergrad,U.K.,White,CL5,CL0
+1489,0-24,male,undergrad,Australia,White,CL6,CL6
+1490,25-34,female,college,U.S.A.,White,CL6,CL2
+1491,25-34,female,PhD,U.K.,White,CL5,CL2
+1492,0-24,female,master's,U.K.,White,CL5,CL1
+1493,0-24,male,college,U.S.A.,White,CL6,CL6
+1494,45-54,male,college,U.S.A.,White,CL4,CL4
+1495,0-24,male,college,U.S.A.,White,CL5,CL6
+1496,0-24,male,college,U.K.,White,CL5,CL5
+1497,0-24,male,college,U.K.,White,CL4,CL3
+1498,25-34,male,master's,Other,White,CL5,CL0
+1499,45-54,female,hs,U.S.A.,White,CL5,CL6
+1500,45-54,male,undergrad,U.S.A.,White,CL5,CL1
+1501,25-34,male,PhD,U.S.A.,Other,CL5,CL6
+1502,0-24,female,college,U.S.A.,White,CL4,CL5
+1503,0-24,male,undergrad,U.S.A.,White,CL6,CL0
+1504,25-34,male,undergrad,U.S.A.,White,CL6,CL6
+1505,0-24,female,undergrad,U.S.A.,Mixed,CL6,CL6
+1506,35-44,female,prof cert,U.S.A.,White,CL5,CL6
+1507,45-54,female,PhD,U.K.,White,CL6,CL1
+1508,0-24,female,hs,U.K.,White,CL4,CL0
+1509,0-24,female,undergrad,U.K.,White,CL6,CL3
+1510,25-34,female,prof cert,U.S.A.,White,CL5,CL6
+1511,25-34,male,college,U.S.A.,White,CL0,CL0
+1512,0-24,male,undergrad,U.S.A.,White,CL5,CL6
+1513,0-24,male,hs,U.S.A.,White,CL6,CL6
+1514,0-24,male,college,U.S.A.,Mixed,CL3,CL6
+1515,25-34,male,hs,U.S.A.,White,CL3,CL2
+1516,0-24,male,college,U.S.A.,White,CL6,CL4
+1517,0-24,male,hs,U.S.A.,White,CL5,CL6
+1518,45-54,male,PhD,U.S.A.,White,CL5,CL3
+1519,0-24,male,prof cert,U.S.A.,White,CL6,CL6
+1520,0-24,male,college,U.S.A.,White,CL0,CL4
+1521,0-24,male,college,Other,White,CL5,CL2
+1522,0-24,male,prof cert,U.S.A.,White,CL5,CL6
+1523,25-34,male,prof cert,U.S.A.,White,CL3,CL3
+1524,0-24,male,college,U.S.A.,White,CL4,CL3
+1525,0-24,male,hs,U.S.A.,White,CL2,CL6
+1526,0-24,male,hs,Australia,White,CL6,CL4
+1527,0-24,male,hs,U.S.A.,White,CL5,CL5
+1528,0-24,male,college,U.S.A.,White,CL6,CL6
+1529,0-24,female,undergrad,U.K.,White,CL6,CL6
+1530,0-24,male,college,U.S.A.,White,CL5,CL6
+1531,0-24,male,hs,New Zealand,White,CL3,CL4
+1532,25-34,female,undergrad,U.S.A.,Other,CL5,CL6
+1533,0-24,male,college,U.S.A.,White,CL5,CL4
+1534,0-24,male,college,U.S.A.,Other,CL5,CL3
+1535,25-34,male,hs,Australia,White,CL6,CL5
+1536,35-44,female,college,Irel.,White,CL5,CL4
+1537,0-24,female,college,U.S.A.,Other,CL5,CL3
+1538,0-24,female,college,U.S.A.,White,CL5,CL5
+1539,0-24,female,college,U.S.A.,Other,CL4,CL0
+1540,0-24,male,college,U.S.A.,White,CL6,CL5
+1541,0-24,female,college,U.S.A.,White,CL6,CL6
+1542,0-24,male,college,U.S.A.,White,CL6,CL6
+1543,25-34,male,college,U.S.A.,White,CL6,CL6
+1544,0-24,male,college,U.K.,White,CL4,CL4
+1545,0-24,male,college,U.S.A.,White,CL4,CL6
+1546,0-24,female,college,U.S.A.,White,CL3,CL6
+1547,0-24,male,hs,U.S.A.,Other,CL3,CL4
+1548,0-24,female,college,U.S.A.,White,CL3,CL6
+1549,25-34,male,undergrad,U.K.,White,CL5,CL0
+1550,25-34,female,master's,U.K.,White,CL5,CL0
+1551,25-34,female,prof cert,U.K.,White,CL6,CL2
+1552,55-64,female,prof cert,U.K.,White,CL3,CL0
+1553,45-54,female,college,U.K.,White,CL6,CL1
+1554,45-54,female,prof cert,U.K.,White,CL6,CL0
+1555,0-24,male,college,U.K.,White,CL6,CL2
+1556,25-34,male,master's,U.K.,White,CL5,CL2
+1557,0-24,female,master's,U.K.,White,CL6,CL3
+1558,25-34,female,college,U.K.,White,CL5,CL2
+1559,55-64,female,undergrad,U.K.,White,CL4,CL0
+1560,0-24,female,undergrad,U.K.,Mixed,CL5,CL2
+1561,25-34,female,master's,U.K.,Asian,CL4,CL2
+1562,35-44,female,undergrad,U.K.,White,CL1,CL1
+1563,45-54,female,hs,U.K.,White,CL1,CL0
+1564,35-44,male,prof cert,U.K.,White,CL4,CL3
+1565,35-44,female,undergrad,U.K.,White,CL6,CL0
+1566,45-54,female,prof cert,U.K.,White,CL6,CL1
+1567,35-44,female,prof cert,U.K.,White,CL5,CL0
+1568,45-54,female,prof cert,U.K.,White,CL4,CL0
+1569,35-44,male,master's,U.K.,White,CL5,CL0
+1570,25-34,male,undergrad,U.K.,White,CL5,CL0
+1571,25-34,female,master's,U.K.,White,CL5,CL2
+1572,45-54,male,prof cert,U.K.,White,CL6,CL0
+1573,0-24,female,college,U.K.,White,CL3,CL2
+1574,25-34,female,master's,U.K.,White,CL6,CL1
+1575,45-54,female,prof cert,U.K.,White,CL3,CL0
+1576,35-44,female,undergrad,U.K.,White,CL3,CL0
+1577,35-44,female,college,U.K.,White,CL4,CL1
+1578,25-34,female,master's,U.K.,White,CL5,CL0
+1579,45-54,female,undergrad,U.K.,White,CL3,CL0
+1580,45-54,female,master's,U.K.,White,CL4,CL1
+1581,35-44,female,hs,U.K.,White,CL6,CL0
+1582,45-54,female,prof cert,U.K.,White,CL5,CL0
+1583,35-44,female,master's,U.K.,White,CL4,CL0
+1584,35-44,male,prof cert,U.K.,White,CL6,CL1
+1585,35-44,female,master's,U.K.,White,CL5,CL1
+1586,25-34,female,undergrad,U.K.,White,CL6,CL2
+1587,35-44,female,undergrad,U.K.,White,CL5,CL3
+1588,35-44,female,prof cert,U.K.,White,CL5,CL0
+1589,35-44,male,hs,U.K.,White,CL6,CL0
+1590,35-44,male,prof cert,U.K.,White,CL4,CL1
+1591,35-44,female,undergrad,U.K.,White,CL5,CL0
+1592,45-54,female,prof cert,U.K.,White,CL5,CL0
+1593,45-54,female,undergrad,U.K.,White,CL5,CL0
+1594,35-44,female,PhD,U.K.,White,CL5,CL1
+1595,25-34,female,undergrad,U.K.,White,CL5,CL0
+1596,25-34,female,undergrad,U.K.,White,CL5,CL3
+1597,55-64,female,college,U.K.,White,CL5,CL0
+1598,35-44,female,undergrad,U.K.,White,CL5,CL0
+1599,25-34,female,master's,U.K.,White,CL5,CL0
+1600,25-34,female,prof cert,U.K.,White,CL4,CL1
+1601,25-34,female,prof cert,U.K.,White,CL5,CL0
+1602,25-34,male,master's,U.K.,White,CL4,CL2
+1603,55-64,female,master's,U.K.,White,CL6,CL0
+1604,25-34,female,undergrad,U.K.,White,CL4,CL0
+1605,45-54,male,hs,U.K.,White,CL5,CL0
+1606,25-34,female,undergrad,U.K.,Asian,CL0,CL0
+1607,35-44,female,prof cert,U.K.,White,CL5,CL2
+1608,35-44,female,master's,U.K.,White,CL5,CL1
+1609,25-34,male,college,U.S.A.,White,CL3,CL3
+1610,25-34,female,undergrad,U.K.,White,CL4,CL0
+1611,45-54,female,undergrad,U.K.,White,CL5,CL0
+1612,25-34,female,undergrad,U.K.,White,CL3,CL0
+1613,35-44,female,undergrad,U.K.,Mixed,CL5,CL2
+1614,25-34,male,college,U.K.,White,CL4,CL1
+1615,35-44,female,PhD,U.K.,White,CL5,CL1
+1616,55-64,male,prof cert,U.K.,White,CL6,CL0
+1617,25-34,male,master's,U.K.,White,CL5,CL0
+1618,45-54,male,prof cert,U.K.,White,CL5,CL0
+1619,25-34,male,college,U.S.A.,White,CL5,CL6
+1620,45-54,male,prof cert,U.K.,White,CL5,CL0
+1621,25-34,male,undergrad,U.K.,Black,CL6,CL0
+1622,35-44,male,prof cert,U.K.,White,CL5,CL0
+1623,35-44,male,undergrad,U.K.,White,CL5,CL0
+1624,45-54,male,master's,U.K.,White,CL5,CL1
+1625,35-44,male,college,U.K.,White,CL5,CL3
+1626,35-44,female,prof cert,U.K.,White,CL6,CL0
+1627,25-34,female,prof cert,U.K.,White,CL5,CL1
+1628,25-34,female,master's,U.K.,White,CL4,CL1
+1629,25-34,female,master's,U.K.,White,CL3,CL0
+1630,45-54,female,prof cert,U.K.,White,CL2,CL1
+1631,35-44,female,undergrad,U.K.,White,CL6,CL1
+1632,35-44,female,prof cert,U.K.,White,CL5,CL1
+1633,35-44,male,prof cert,Canada,White,CL6,CL6
+1634,45-54,female,prof cert,U.K.,Black,CL5,CL0
+1635,0-24,female,hs,U.K.,White,CL4,CL0
+1636,55-64,male,hs,U.K.,White,CL5,CL0
+1637,45-54,female,prof cert,U.K.,White,CL4,CL0
+1638,0-24,male,college,U.S.A.,White,CL5,CL5
+1639,45-54,female,hs,U.K.,White,CL5,CL0
+1640,45-54,female,prof cert,U.K.,White,CL6,CL0
+1641,35-44,female,prof cert,U.K.,White,CL6,CL0
+1642,45-54,female,prof cert,U.K.,White,CL5,CL0
+1643,25-34,female,master's,U.K.,White,CL4,CL0
+1644,45-54,female,prof cert,U.K.,White,CL3,CL0
+1645,25-34,female,master's,U.K.,White,CL3,CL1
+1646,45-54,male,hs,U.K.,White,CL5,CL1
+1647,35-44,male,prof cert,U.K.,White,CL6,CL2
+1648,35-44,male,prof cert,U.K.,White,CL5,CL2
+1649,25-34,female,master's,U.K.,White,CL4,CL0
+1650,25-34,female,undergrad,U.K.,White,CL3,CL0
+1651,25-34,female,undergrad,U.K.,White,CL5,CL3
+1652,55-64,male,college,U.S.A.,White,CL4,CL2
+1653,0-24,male,undergrad,U.S.A.,White,CL5,CL6
+1654,25-34,female,PhD,U.K.,White,CL5,CL1
+1655,55-64,male,hs,U.K.,White,CL5,CL0
+1656,35-44,female,undergrad,U.K.,White,CL5,CL1
+1657,0-24,female,undergrad,U.K.,White,CL4,CL2
+1658,25-34,male,college,Canada,White,CL3,CL3
+1659,0-24,male,prof cert,U.K.,White,CL4,CL3
+1660,45-54,female,undergrad,U.K.,White,CL6,CL0
+1661,35-44,female,prof cert,U.K.,White,CL3,CL3
+1662,0-24,female,hs,U.K.,White,CL2,CL6
+1663,25-34,male,prof cert,Other,White,CL5,CL6
+1664,25-34,female,college,U.K.,White,CL4,CL3
+1665,25-34,female,PhD,U.K.,White,CL5,CL2
+1666,25-34,female,undergrad,U.K.,White,CL5,CL0
+1667,0-24,male,college,U.K.,White,CL4,CL5
+1668,25-34,female,PhD,Australia,White,CL3,CL2
+1669,35-44,male,prof cert,U.K.,White,CL3,CL1
+1670,35-44,female,undergrad,Australia,White,CL4,CL1
+1671,45-54,male,undergrad,U.K.,White,CL6,CL0
+1672,55-64,male,undergrad,U.K.,White,CL5,CL1
+1673,25-34,female,undergrad,U.K.,White,CL3,CL2
+1674,25-34,male,prof cert,Irel.,White,CL3,CL4
+1675,45-54,male,prof cert,U.K.,White,CL5,CL0
+1676,35-44,male,prof cert,U.K.,White,CL5,CL2
+1677,25-34,female,undergrad,U.K.,White,CL3,CL0
+1678,0-24,female,college,U.S.A.,White,CL5,CL6
+1679,45-54,female,prof cert,U.K.,White,CL5,CL0
+1680,0-24,female,undergrad,U.K.,White,CL3,CL0
+1681,0-24,female,undergrad,U.K.,White,CL5,CL0
+1682,45-54,female,college,U.K.,White,CL5,CL0
+1683,45-54,male,prof cert,U.K.,White,CL5,CL3
+1684,0-24,male,college,U.S.A.,Black,CL4,CL3
+1685,25-34,male,undergrad,U.S.A.,White,CL5,CL3
+1686,0-24,female,college,U.S.A.,Black,CL4,CL5
+1687,35-44,female,prof cert,U.K.,White,CL6,CL0
+1688,25-34,female,prof cert,Canada,White,CL6,CL0
+1689,25-34,female,master's,U.S.A.,White,CL6,CL4
+1690,35-44,male,college,U.S.A.,White,CL6,CL3
+1691,25-34,male,college,Other,White,CL3,CL3
+1692,25-34,female,PhD,U.K.,White,CL5,CL0
+1693,25-34,female,undergrad,U.K.,White,CL5,CL2
+1694,25-34,female,undergrad,U.K.,White,CL5,CL0
+1695,45-54,male,master's,U.K.,White,CL6,CL3
+1696,35-44,male,prof cert,U.K.,White,CL6,CL1
+1697,0-24,male,college,U.S.A.,White,CL3,CL4
+1698,55-64,male,PhD,U.K.,White,CL6,CL2
+1699,45-54,female,undergrad,U.K.,White,CL4,CL0
+1700,25-34,female,master's,U.S.A.,White,CL6,CL3
+1701,0-24,male,college,U.S.A.,White,CL4,CL4
+1702,35-44,female,undergrad,U.S.A.,White,CL6,CL6
+1703,25-34,female,prof cert,U.K.,White,CL5,CL0
+1704,0-24,male,college,U.S.A.,White,CL6,CL2
+1705,0-24,male,hs,Canada,White,CL5,CL6
+1706,55-64,male,college,U.K.,White,CL4,CL6
+1707,0-24,male,undergrad,U.K.,White,CL4,CL0
+1708,0-24,female,prof cert,U.K.,White,CL5,CL2
+1709,35-44,female,undergrad,U.K.,White,CL5,CL1
+1710,45-54,female,undergrad,U.K.,White,CL6,CL0
+1711,35-44,female,hs,U.K.,White,CL4,CL0
+1712,25-34,female,undergrad,U.K.,White,CL5,CL2
+1713,35-44,female,master's,U.K.,White,CL5,CL2
+1714,35-44,female,PhD,U.K.,Other,CL4,CL4
+1715,45-54,female,hs,U.K.,White,CL5,CL0
+1716,45-54,male,prof cert,U.K.,White,CL1,CL1
+1717,45-54,male,master's,U.K.,White,CL5,CL1
+1718,35-44,female,master's,U.K.,Other,CL5,CL1
+1719,45-54,male,prof cert,U.K.,White,CL5,CL0
+1720,25-34,female,undergrad,U.K.,White,CL5,CL1
+1721,25-34,female,undergrad,U.K.,White,CL0,CL0
+1722,25-34,female,hs,U.K.,White,CL5,CL1
+1723,45-54,male,undergrad,U.K.,White,CL6,CL1
+1724,55-64,male,prof cert,U.K.,White,CL6,CL0
+1725,45-54,female,prof cert,U.K.,White,CL5,CL1
+1726,25-34,female,hs,U.K.,White,CL3,CL0
+1727,25-34,female,master's,U.K.,White,CL5,CL2
+1728,0-24,female,hs,U.K.,White,CL4,CL0
+1729,45-54,male,master's,U.K.,White,CL6,CL1
+1730,0-24,male,college,Other,White,CL4,CL5
+1731,25-34,female,college,U.K.,White,CL6,CL3
+1732,45-54,male,master's,U.K.,White,CL5,CL3
+1733,25-34,male,prof cert,U.K.,White,CL4,CL2
+1734,45-54,male,prof cert,U.K.,White,CL5,CL0
+1735,45-54,female,prof cert,U.K.,White,CL5,CL0
+1736,25-34,female,master's,U.K.,White,CL5,CL2
+1737,35-44,male,prof cert,U.K.,White,CL5,CL0
+1738,45-54,male,prof cert,U.K.,White,CL5,CL0
+1739,55-64,female,hs,U.K.,White,CL5,CL0
+1740,25-34,female,prof cert,U.K.,White,CL4,CL2
+1741,45-54,female,undergrad,U.K.,White,CL6,CL0
+1742,25-34,female,undergrad,U.S.A.,White,CL5,CL6
+1743,35-44,male,undergrad,U.K.,White,CL5,CL2
+1744,35-44,female,master's,U.K.,White,CL5,CL0
+1745,55-64,female,college,U.K.,White,CL3,CL0
+1746,25-34,female,hs,U.K.,White,CL4,CL0
+1747,35-44,female,master's,U.K.,Black,CL0,CL0
+1748,45-54,female,college,U.K.,White,CL6,CL0
+1749,0-24,male,undergrad,U.S.A.,White,CL5,CL6
+1750,25-34,female,hs,U.S.A.,White,CL5,CL3
+1751,45-54,male,hs,U.K.,White,CL5,CL0
+1752,25-34,female,undergrad,U.S.A.,White,CL5,CL6
+1753,25-34,male,undergrad,U.K.,White,CL5,CL0
+1754,25-34,female,prof cert,U.K.,White,CL6,CL2
+1755,0-24,male,college,U.S.A.,White,CL4,CL6
+1756,0-24,female,hs,U.S.A.,White,CL5,CL6
+1757,0-24,male,hs,U.S.A.,White,CL5,CL6
+1758,35-44,male,prof cert,U.K.,White,CL6,CL0
+1759,45-54,male,master's,Australia,White,CL3,CL3
+1760,35-44,male,master's,Other,White,CL5,CL5
+1761,45-54,female,prof cert,U.K.,White,CL5,CL1
+1762,35-44,female,prof cert,U.K.,White,CL5,CL2
+1763,0-24,male,college,U.S.A.,White,CL4,CL6
+1764,0-24,female,undergrad,Other,White,CL4,CL4
+1765,35-44,male,hs,U.K.,White,CL5,CL5
+1766,25-34,female,college,U.S.A.,White,CL4,CL5
+1767,25-34,female,undergrad,U.S.A.,White,CL5,CL5
+1768,0-24,male,college,U.S.A.,White,CL3,CL6
+1769,25-34,female,college,Other,White,CL5,CL5
+1770,35-44,female,prof cert,U.K.,White,CL5,CL0
+1771,25-34,male,undergrad,U.S.A.,White,CL5,CL4
+1772,55-64,male,college,U.S.A.,White,CL2,CL1
+1773,0-24,male,hs,U.S.A.,Mixed,CL4,CL6
+1774,25-34,female,master's,U.S.A.,White,CL6,CL6
+1775,0-24,female,hs,Irel.,White,CL0,CL6
+1776,0-24,male,college,U.S.A.,White,CL4,CL3
+1777,0-24,female,undergrad,U.S.A.,White,CL5,CL6
+1778,45-54,female,hs,U.K.,White,CL1,CL2
+1779,0-24,female,undergrad,U.S.A.,White,CL5,CL3
+1780,45-54,male,college,U.S.A.,White,CL2,CL2
+1781,0-24,female,undergrad,U.S.A.,White,CL5,CL3
+1782,0-24,male,hs,Canada,White,CL5,CL2
+1783,25-34,female,hs,U.K.,White,CL5,CL5
+1784,25-34,female,college,U.K.,Mixed,CL5,CL0
+1785,0-24,male,college,U.S.A.,Black,CL5,CL5
+1786,25-34,female,master's,U.K.,White,CL5,CL3
+1787,0-24,male,college,U.S.A.,White,CL6,CL6
+1788,0-24,male,undergrad,U.S.A.,White,CL4,CL3
+1789,45-54,female,undergrad,Other,White,CL6,CL1
+1790,0-24,male,college,U.S.A.,White,CL5,CL6
+1791,0-24,male,hs,U.S.A.,White,CL3,CL5
+1792,35-44,female,PhD,U.S.A.,White,CL4,CL2
+1793,0-24,male,undergrad,U.S.A.,White,CL6,CL6
+1794,0-24,male,college,U.S.A.,White,CL4,CL6
+1795,0-24,female,college,U.S.A.,White,CL0,CL5
+1796,25-34,male,undergrad,Other,White,CL6,CL6
+1797,35-44,female,hs,U.K.,White,CL2,CL6
+1798,0-24,male,college,U.S.A.,White,CL6,CL3
+1799,0-24,male,undergrad,U.S.A.,White,CL3,CL3
+1800,55-64,male,master's,U.K.,White,CL5,CL0
+1801,45-54,male,college,U.S.A.,White,CL2,CL1
+1802,25-34,male,PhD,U.S.A.,White,CL6,CL6
+1803,0-24,male,master's,U.S.A.,Other,CL4,CL6
+1804,0-24,male,college,U.S.A.,White,CL6,CL4
+1805,0-24,male,prof cert,U.S.A.,Other,CL4,CL4
+1806,0-24,male,college,U.S.A.,White,CL5,CL5
+1807,35-44,female,prof cert,U.S.A.,White,CL4,CL6
+1808,35-44,male,undergrad,U.S.A.,Other,CL5,CL6
+1809,0-24,female,master's,U.K.,Black,CL4,CL0
+1810,0-24,female,hs,U.S.A.,White,CL4,CL6
+1811,0-24,male,undergrad,U.S.A.,White,CL6,CL6
+1812,0-24,male,college,U.S.A.,White,CL6,CL6
+1813,25-34,female,hs,Other,White,CL4,CL2
+1814,25-34,male,undergrad,Other,Asian,CL4,CL1
+1815,35-44,female,undergrad,Canada,White,CL2,CL6
+1816,0-24,female,master's,U.K.,White,CL6,CL3
+1817,45-54,male,undergrad,U.K.,White,CL5,CL0
+1818,0-24,female,college,U.S.A.,Other,CL4,CL6
+1819,25-34,female,undergrad,U.S.A.,White,CL5,CL6
+1820,0-24,male,master's,U.S.A.,White,CL6,CL5
+1821,0-24,male,college,U.S.A.,White,CL2,CL6
+1822,45-54,female,college,U.S.A.,White,CL3,CL4
+1823,0-24,male,college,U.S.A.,White,CL3,CL6
+1824,0-24,female,college,U.S.A.,White,CL4,CL3
+1825,25-34,male,undergrad,U.K.,Asian,CL6,CL0
+1826,0-24,male,undergrad,U.S.A.,White,CL5,CL6
+1827,0-24,female,undergrad,U.S.A.,White,CL4,CL6
+1828,25-34,female,undergrad,U.S.A.,White,CL4,CL5
+1829,25-34,female,master's,U.S.A.,White,CL5,CL6
+1830,25-34,female,undergrad,U.S.A.,Other,CL2,CL5
+1831,25-34,female,undergrad,Australia,White,CL6,CL3
+1832,0-24,male,hs,Other,White,CL6,CL6
+1833,0-24,male,undergrad,U.S.A.,Other,CL5,CL6
+1834,35-44,female,undergrad,U.S.A.,White,CL6,CL6
+1835,25-34,male,college,U.S.A.,White,CL6,CL6
+1836,45-54,male,undergrad,U.S.A.,White,CL3,CL2
+1837,35-44,female,prof cert,U.S.A.,White,CL2,CL6
+1838,35-44,female,college,U.S.A.,White,CL3,CL5
+1839,35-44,female,prof cert,U.S.A.,White,CL6,CL6
+1840,25-34,female,prof cert,Australia,White,CL4,CL5
+1841,55-64,female,undergrad,U.S.A.,White,CL2,CL2
+1842,0-24,male,college,Other,White,CL5,CL6
+1843,25-34,male,undergrad,U.S.A.,Other,CL4,CL6
+1844,45-54,male,PhD,U.K.,White,CL5,CL2
+1845,0-24,male,college,U.S.A.,White,CL6,CL5
+1846,45-54,male,undergrad,U.S.A.,White,CL5,CL5
+1847,0-24,male,college,U.S.A.,White,CL5,CL3
+1848,0-24,female,undergrad,U.S.A.,White,CL6,CL6
+1849,0-24,female,college,Canada,White,CL3,CL6
+1850,45-54,male,prof cert,U.S.A.,Black,CL2,CL6
+1851,25-34,female,undergrad,U.S.A.,White,CL3,CL2
+1852,0-24,male,hs,Australia,White,CL5,CL3
+1853,25-34,male,prof cert,U.S.A.,Other,CL6,CL6
+1854,25-34,female,master's,U.K.,White,CL5,CL5
+1855,35-44,male,hs,U.S.A.,White,CL3,CL2
+1856,0-24,male,college,U.S.A.,White,CL5,CL6
+1857,0-24,male,college,U.S.A.,White,CL3,CL5
+1858,0-24,male,hs,Australia,White,CL5,CL3
+1859,35-44,male,prof cert,Other,White,CL4,CL4
+1860,0-24,male,college,U.S.A.,White,CL3,CL4
+1861,0-24,male,college,U.S.A.,White,CL6,CL5
+1862,0-24,male,hs,U.S.A.,White,CL4,CL6
+1863,35-44,male,college,Other,White,CL6,CL6
+1864,55-64,female,undergrad,Canada,White,CL5,CL6
+1865,25-34,female,undergrad,U.S.A.,Other,CL5,CL3
+1866,45-54,male,hs,U.S.A.,White,CL6,CL6
+1867,0-24,female,college,U.S.A.,White,CL5,CL6
+1868,25-34,male,college,U.S.A.,White,CL5,CL6
+1869,0-24,female,prof cert,U.S.A.,White,CL5,CL6
+1870,0-24,female,undergrad,U.S.A.,White,CL6,CL6
+1871,0-24,female,college,U.S.A.,White,CL6,CL6
+1872,0-24,male,college,Other,White,CL2,CL6
+1873,0-24,male,college,U.S.A.,White,CL3,CL5
+1874,25-34,female,undergrad,Other,White,CL6,CL5
+1875,0-24,male,hs,U.S.A.,White,CL6,CL6
+1876,0-24,male,college,Canada,White,CL5,CL6
+1877,0-24,male,hs,U.S.A.,White,CL5,CL6
+1878,65+,male,college,U.S.A.,White,CL5,CL3
+1879,0-24,male,college,U.S.A.,Mixed,CL5,CL5
+1880,25-34,male,college,Canada,Other,CL6,CL6
+1881,0-24,male,hs,U.S.A.,White,CL6,CL5
+1882,0-24,male,undergrad,Canada,White,CL4,CL5
+1883,0-24,male,college,Other,White,CL4,CL6
+1884,0-24,female,college,U.S.A.,White,CL5,CL5
+1885,0-24,male,college,U.S.A.,White,CL5,CL3
+1886,25-34,female,undergrad,U.S.A.,White,CL4,CL6
+1887,0-24,female,college,U.S.A.,White,CL5,CL6
+1888,0-24,male,college,Irel.,White,CL4,CL3
