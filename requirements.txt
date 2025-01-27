@@ -4,3 +4,4 @@ matplotlib
 pandas
 scipy
 ipywidgets
+scikit-learn==1.0.2
