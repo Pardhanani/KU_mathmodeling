@@ -5,5 +5,5 @@ both a teacher and researcher in applied mathematics and modeling for 30+ years,
 and is doing this work at Kasetsart University as part of a phased 
 retirement project.
 
-Email: pardhan@earlham.edu
+Email: pardhan@earlham.edu <BR>
 Website: <A HREF="https://cs.earlham.edu/~pardhan/" Target="_blank">https://cs.earlham.edu/~pardhan/</A>
